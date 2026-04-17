@@ -1,0 +1,68 @@
+{
+  "topic": "most-repeated",
+  "exams": {
+    "Economy": [
+      {
+        "title": "Most Repeated Economy Questions Part 1",
+        "slug": "economy-p1",
+        "question_file": "content/most-repeated/economy/economy-p1.json"
+      },
+      {
+        "title": "Most Repeated Economy Questions Part 2",
+        "slug": "economy-p2",
+        "question_file": "content/most-repeated/economy/economy-p2.json"
+      }
+    ],
+    "Geography": [
+      {
+        "title": "Most Repeated Geography Questions Part 1",
+        "slug": "geography-1",
+        "question_file": "content/most-repeated/geography/geography-1.json"
+      },
+      {
+        "title": "Most Repeated Geography Questions Part 2",
+        "slug": "geography-2",
+        "question_file": "content/most-repeated/geography/geography-2.json"
+      },
+      {
+        "title": "Most Repeated Geography Questions Part 3",
+        "slug": "geography-3",
+        "question_file": "content/most-repeated/geography/geography-3.json"
+      }
+    ],
+    "History": [
+      {
+        "title": "Most Repeated Ancient History Questions",
+        "slug": "ancient-history",
+        "question_file": "content/most-repeated/history/ancient-history.json"
+      },
+      {
+        "title": "Most Repeated Ancient History Questions",
+        "slug": "medieval-history",
+        "question_file": "content/most-repeated/history/medieval-history.json"
+      },
+      {
+        "title": "Most Repeated Modern Histroy Questions",
+        "slug": "modern-history",
+        "question_file": "content/most-repeated/history/modern-history.json"
+      }
+    ],
+    "Polity": [
+      {
+        "title": "Most Repeated Polity Questions Part 1",
+        "slug": "polity-1",
+        "question_file": "content/most-repeated/polity/polity-1.json"
+      },
+      {
+        "title": "Most Repeated Polity Questions Part 2",
+        "slug": "polity-2",
+        "question_file": "content/most-repeated/polity/polity-2.json"
+      },
+      {
+        "title": "Most Repeated Polity Questions Part 3",
+        "slug": "polity-3",
+        "question_file": "content/most-repeated/polity/polity-3.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,401 @@
+{
+    "title": "Most Repeated Modern Histroy Questions",
+    "topic": "History",
+    "content": [
+        {
+            "question": "In which year was the <strong>Indian National Congress</strong> established?",
+            "answer": "1885",
+            "note": "The <strong>Indian National Congress (INC)</strong> was founded in <u>December 1885</u>. Its first session was held at Gokuldas Tejpal Sanskrit College in Bombay (Mumbai)."
+        },
+        {
+            "question": "What was significant about the <strong>Lahore Session (1929)</strong>?",
+            "answer": "Demand for complete independence (Purna Swaraj) was passed",
+            "note": "Presided over by Jawaharlal Nehru, the <strong>1929 Lahore Session</strong> was historic because the Congress passed the resolution for <u>Purna Swaraj</u> (Complete Independence) and decided to celebrate Jan 26 as Independence Day."
+        },
+        {
+            "question": "Who founded the <strong>Brahmo Samaj</strong>?",
+            "answer": "Raja Ram Mohan Roy",
+            "note": "<strong>Raja Ram Mohan Roy</strong>, the 'Father of Indian Renaissance', founded the <u>Brahmo Samaj</u> in 1828 to promote monotheism and social reforms like the abolition of Sati."
+        },
+        {
+            "question": "Why did Gandhi withdraw the Non-Cooperation Movement?",
+            "answer": "Due to the Chauri Chaura incident",
+            "note": "In 1922, a violent mob set fire to a police station in <strong>Chauri Chaura</strong> (UP), killing 22 policemen. Committed to non-violence, <u>Mahatma Gandhi</u> immediately called off the Non-Cooperation Movement."
+        },
+        {
+            "question": "The <strong>Dandi March</strong> is associated with which movement?",
+            "answer": "Civil Disobedience Movement",
+            "note": "The <strong>Dandi March</strong> (Salt Satyagraha) of 1930, where Gandhi marched to the coast to make salt, marked the beginning of the <u>Civil Disobedience Movement</u> against British salt laws."
+        },
+        {
+            "question": "Who formulated the <strong>Doctrine of Lapse</strong>?",
+            "answer": "Lord Dalhousie",
+            "note": "<strong>Lord Dalhousie</strong> used the <u>Doctrine of Lapse</u> to annex princely states (like Satara, Jhansi, and Nagpur) if the ruler died without a natural male heir."
+        },
+        {
+            "question": "Where did Gandhi launch his first Satyagraha in India?",
+            "answer": "Champaran",
+            "note": "After returning from South Africa, Gandhi's first major movement in India was the <u>Champaran Satyagraha</u> (1917) in Bihar, supporting indigo farmers against the <em>Tinkathia system</em>."
+        },
+        {
+            "question": "Who gave the slogan <strong>\"Swaraj is my birthright\"</strong>?",
+            "answer": "Bal Gangadhar Tilak",
+            "note": "<strong>Bal Gangadhar Tilak</strong>, a prominent extremist leader, famously declared: <u>\"Swaraj is my birthright, and I shall have it!\"</u> He used festivals like Ganpati and Shivaji Utsav to mobilize the masses."
+        },
+        {
+            "question": "Who founded the <strong>All India Muslim League</strong>?",
+            "answer": "Founded in 1906 in Dhaka",
+            "note": "The <strong>All India Muslim League</strong> was formed on <u>December 30, 1906, in Dhaka</u> (now Bangladesh) under the leadership of Nawab Salimullah and Aga Khan III."
+        },
+        {
+            "question": "When was the <strong>Battle of Plassey</strong> fought?",
+            "answer": "23 June 1757",
+            "note": "The <strong>Battle of Plassey</strong> took place on <u>June 23, 1757</u>. It was a decisive victory for the British East India Company under Robert Clive against the Nawab of Bengal."
+        },
+        {
+            "question": "Who led the <strong>Bardoli Satyagraha</strong>?",
+            "answer": "Sardar Vallabhbhai Patel",
+            "note": "<strong>Sardar Vallabhbhai Patel</strong> led the <u>Bardoli Satyagraha</u> (1928) in Gujarat against unjust land revenue hikes. The success of this movement earned him the title 'Sardar'."
+        },
+        {
+            "question": "Who was called the <strong>Father of Local Self-Government</strong>?",
+            "answer": "Lord Ripon",
+            "note": "<strong>Lord Ripon</strong> is known as the <u>'Father of Local Self-Government'</u> in India because he introduced the Resolution of 1882, which laid the foundation for municipal boards and local bodies."
+        },
+        {
+            "question": "Who was the first Governor-General of Bengal?",
+            "answer": "Warren Hastings",
+            "note": "<strong>Warren Hastings</strong> became the first <u>Governor-General of Bengal</u> following the <em>Regulating Act of 1773</em>. He centralized the administration and established the dual system of governance."
+        },
+        {
+            "question": "Who founded the <strong>Asiatic Society</strong>?",
+            "answer": "William Jones",
+            "note": "<strong>Sir William Jones</strong>, a philologist, founded the <u>Asiatic Society</u> in Calcutta in 1784 to encourage and facilitate Oriental research and the study of Indian history and culture."
+        },
+        {
+            "question": "In which year was the <strong>Lucknow Pact</strong> signed?",
+            "answer": "1916",
+            "note": "The <strong>Lucknow Pact</strong> was an agreement signed in <u>1916</u> between the <em>Indian National Congress</em> and the <em>Muslim League</em> to pressure the British for political reforms and communal representation."
+        },
+        {
+            "question": "Who led the Revolt of 1857 in Bihar?",
+            "answer": "Veer Kunwar Singh",
+            "note": "During the Great Revolt of 1857, <strong>Veer Kunwar Singh</strong>, the 80-year-old Zamindar of Jagdispur, led the rebellion in <u>Bihar</u> and fought valiantly against British forces."
+        },
+        {
+            "question": "Who was the first president of the Indian National Congress?",
+            "answer": "Womesh Chandra Bonnerjee",
+            "note": "<strong>Womesh Chandra Bonnerjee</strong> (W.C. Bonnerjee) was a prominent barrister who presided over the <u>first session</u> of the Indian National Congress in Bombay in 1885."
+        },
+        {
+            "question": "Who abolished <strong>Sati</strong> in 1829?",
+            "answer": "William Bentinck",
+            "note": "Through the <em>Sati Regulation Act of 1829</em>, <strong>Lord William Bentinck</strong> (with strong support from Raja Ram Mohan Roy) legally <u>abolished the practice of Sati</u> across British India."
+        },
+        {
+            "question": "In which year was the East India Company established?",
+            "answer": "1600 CE",
+            "note": "The <strong>East India Company (EIC)</strong> was granted a Royal Charter by Queen Elizabeth I on <u>December 31, 1600</u>, giving them a monopoly on trade with the East Indies."
+        },
+        {
+            "question": "What was the first major victory of the East India Company in India?",
+            "answer": "Battle of Plassey",
+            "note": "The <u>Battle of Plassey</u> (1757) is considered the <strong>first major victory</strong> for the EIC, as it effectively established British political and military supremacy in Bengal."
+        },
+        {
+            "question": "Who betrayed Siraj-ud-Daulah in the Battle of Plassey?",
+            "answer": "Mir Jafar",
+            "note": "<strong>Mir Jafar</strong>, the commander-in-chief of the Nawab's army, entered into a secret pact with the British and <u>withheld his troops</u> during the Battle of Plassey, leading to the defeat of Siraj-ud-Daulah."
+        },
+        {
+            "question": "In which year was the <strong>First Battle of Panipat</strong> fought?",
+            "answer": "1526 CE",
+            "note": "The <strong>First Battle of Panipat</strong> was fought on <strong>April 21, 1526 CE</strong>. It marked the end of the Delhi Sultanate and the beginning of the <em>Mughal Empire</em> in India. "
+        },
+        {
+            "question": "In which year was the Lahore Session of INC held?",
+            "answer": "1929",
+            "note": "The <strong>Lahore Session</strong> of 1929 is famous for the <u>Purna Swaraj</u> (Complete Independence) declaration. It was presided over by <em>Jawaharlal Nehru</em> on the banks of the Ravi River."
+        },
+        {
+            "question": "In which year was the <strong>Satyashodhak Samaj</strong> founded?",
+            "answer": "1873",
+            "note": "<strong>Satyashodhak Samaj</strong> (Truth Seekers' Society) was founded in <strong>1873</strong> by <u>Jyotirao Phule</u> in Maharashtra to fight against caste discrimination and advocate for the rights of Shudras and Dalits."
+        },
+        {
+            "question": "Who introduced the Permanent Settlement system in 1793?",
+            "answer": "Lord Cornwallis",
+            "note": "<strong>Lord Cornwallis</strong> introduced the <u>Permanent Settlement</u> in Bengal and Bihar in 1793. This system fixed land revenue permanently and created a new class of landlords known as <em>Zamindars</em>."
+        },
+        {
+            "question": "In which year did Gandhi return to India from South Africa?",
+            "answer": "1915",
+            "note": "<strong>Mahatma Gandhi</strong> returned to India on <strong>January 9, 1915</strong>, after staying in South Africa for 21 years. This day is now celebrated as <em>Pravasi Bharatiya Divas</em> (NRI Day)."
+        },
+        {
+            "question": "Who founded the Arya Samaj?",
+            "answer": "Swami Dayanand Saraswati",
+            "note": "<strong>Swami Dayanand Saraswati</strong> founded the <u>Arya Samaj</u> in 1875. He gave the slogan <em>'Back to the Vedas'</em> and emphasized monotheism and social reform through education."
+        },
+        {
+            "question": "Who founded the Ghadar Party?",
+            "answer": "Lala Hardayal and Sohan Singh Bhakna",
+            "note": "The <strong>Ghadar Party</strong> was an international political movement founded by expatriate Indians, notably <strong>Lala Hardayal</strong> and <strong>Sohan Singh Bhakna</strong>, to overthrow British rule in India using armed force."
+        },
+        {
+            "question": "In which year was the Ramakrishna Mission established?",
+            "answer": "1897",
+            "note": "The <strong>Ramakrishna Mission</strong> was established in <strong>1897</strong> by <u>Swami Vivekananda</u> to spread the teachings of his guru, Ramakrishna Paramahansa, and to perform social service."
+        },
+        {
+            "question": "Who divided Bengal in 1905?",
+            "answer": "Lord Curzon",
+            "note": "<strong>Lord Curzon</strong> carried out the <u>Partition of Bengal</u> in 1905, citing administrative convenience, though the real motive was to weaken the nationalist movement by dividing Hindus and Muslims."
+        },
+        {
+            "question": "During which movement did Gandhi give the slogan <strong>\"Do or Die\"</strong>?",
+            "answer": "Quit India Movement",
+            "note": "During the <strong>Quit India Movement</strong> (1942), <u>Mahatma Gandhi</u> gave the iconic <strong>'Do or Die'</strong> (Karo Ya Maro) speech at Mumbai, demanding an immediate end to British rule."
+        },
+        {
+            "question": "Who founded the <strong>Prarthana Samaj</strong>?",
+            "answer": "Atmaram Pandurang with Keshav Chandra Sen",
+            "note": "The <strong>Prarthana Samaj</strong> (Prayer Society) was founded in 1867 in Bombay by <strong>Atmaram Pandurang</strong>. It was influenced by the Brahmo Samaj and worked toward religious and social reforms."
+        },
+        {
+            "question": "What was the name of the organization founded by Khan Abdul Ghaffar Khan?",
+            "answer": "Khudai Khidmatgar",
+            "note": "<strong>Khan Abdul Ghaffar Khan</strong>, also known as 'Frontier Gandhi,' founded the <u>Khudai Khidmatgar</u> ('Servants of God'). They were a non-violent Pashtun movement known as the <em>'Red Shirts'</em>."
+        },
+        {
+            "question": "Who founded the Swaraj Party in 1923 along with Motilal Nehru?",
+            "answer": "Chittaranjan Das",
+            "note": "After the withdrawal of the Non-Cooperation Movement, <strong>Chittaranjan (C.R.) Das</strong> and <strong>Motilal Nehru</strong> formed the <u>Swaraj Party</u> in 1923 to enter the legislative councils and disrupt British governance from within."
+        },
+        {
+            "question": "In which year was the partition of Bengal announced?",
+            "answer": "1905",
+            "note": "The <u>Partition of Bengal</u> was officially announced in <strong>1905</strong>. This led to the <em>Swadeshi Movement</em>, marked by the boycott of British goods and the promotion of Indian-made products."
+        },
+        {
+            "question": "Who signed the <strong>Poona Pact</strong> with Mahatma Gandhi?",
+            "answer": "Dr. B.R. Ambedkar",
+            "note": "The <strong>Poona Pact</strong> (1932) was an agreement between <strong>Dr. B.R. Ambedkar</strong> and <u>Mahatma Gandhi</u>. It abandoned the idea of separate electorates for 'Depressed Classes' in favor of reserved seats in provincial legislatures."
+        },
+        {
+            "question": "Who founded the Forward Bloc in 1939?",
+            "answer": "Subhas Chandra Bose",
+            "note": "<strong>Subhas Chandra Bose</strong> founded the <u>Forward Bloc</u> in 1939 as a faction within the Indian National Congress after resigning from the presidency due to ideological differences with Gandhi."
+        },
+        {
+            "question": "Where did the Quit India Movement begin?",
+            "answer": "August Kranti Maidan, Mumbai",
+            "note": "The <strong>Quit India Movement</strong> was launched on August 8, 1942, from the <u>August Kranti Maidan</u> (then Gowalia Tank Maidan) in <strong>Mumbai</strong>."
+        },
+        {
+            "question": "Who founded the All India Depressed Classes Association?",
+            "answer": "Dr. B.R. Ambedkar",
+            "note": "<strong>Dr. B.R. Ambedkar</strong> founded the <u>All India Depressed Classes Association</u> in 1930 to represent the interests of Dalits and demand political rights within the British Indian administration."
+        },
+        {
+            "question": "Which Mughal ruler was involved in the Revolt of 1857?",
+            "answer": "Bahadur Shah II",
+            "note": "<strong>Bahadur Shah II</strong> (Zafar), the last Mughal Emperor, was proclaimed the leader of the <u>Revolt of 1857</u> by the sepoys. After the revolt's failure, he was exiled to Rangoon by the British."
+        },
+        {
+            "question": "Who was the first Indian elected to the British Parliament?",
+            "answer": "Dadabhai Naoroji",
+            "note": "<strong>Dadabhai Naoroji</strong> was the first Indian to be elected as a <u>Member of Parliament (MP)</u> in the British House of Commons (1892–1895), representing the Liberal Party."
+        },
+        {
+            "question": "Who wrote <strong>India Wins Freedom</strong>?",
+            "answer": "Maulana Abul Kalam Azad",
+            "note": "<u>India Wins Freedom</u> is an autobiographical narrative by <strong>Maulana Abul Kalam Azad</strong>, India's first Education Minister, providing an insider's view of the partition and independence."
+        },
+        {
+            "question": "What was the Gandhi-Irwin Pact related to?",
+            "answer": "Civil Disobedience Movement",
+            "note": "The <strong>Gandhi-Irwin Pact</strong> (1931) resulted in the suspension of the <u>Civil Disobedience Movement</u> and allowed Congress to participate in the <em>Second Round Table Conference</em> in London."
+        },
+        {
+            "question": "In which year did Alfonso de Albuquerque capture Goa?",
+            "answer": "1510 CE",
+            "note": "In <strong>1510 CE</strong>, the Portuguese admiral <strong>Alfonso de Albuquerque</strong> captured <u>Goa</u> from the Sultan of Bijapur, making it the headquarters of the Portuguese State of India for centuries."
+        },
+        {
+            "question": "In which year did the Surat Split occur?",
+            "answer": "1907 CE",
+            "note": "The <strong>Surat Split</strong> occurred in <strong>1907</strong> during the INC session, where the party divided into two factions: the <u>Moderates</u> (led by Gokhale) and the <u>Extremists</u> (led by Tilak)."
+        },
+        {
+            "question": "Which was the first nationwide Satyagraha launched by Gandhi?",
+            "answer": "Rowlatt Act movement",
+            "note": "The <strong>Rowlatt Act Satyagraha</strong> (1919) was Gandhi's <u>first nationwide</u> protest. It was launched against the 'Black Act,' which allowed the government to imprison political activists without trial."
+        },
+        {
+            "question": "Who was known as the <strong>Grand Old Man of India</strong>?",
+            "answer": "Dadabhai Naoroji",
+            "note": "<strong>Dadabhai Naoroji</strong> is revered as the <u>'Grand Old Man of India.'</u> He is famous for his <em>'Drain of Wealth'</em> theory, which explained how Britain was systematically looting India's economy."
+        },
+        {
+            "question": "Who founded the Indian Association in 1876?",
+            "answer": "Surendranath Banerjee and Anand Mohan Bose",
+            "note": "<strong>Surendranath Banerjee</strong> and <strong>Anand Mohan Bose</strong> founded the <u>Indian Association</u> in 1876. It was one of the most important pre-Congress nationalist organizations in British India."
+        },
+        {
+            "question": "Who was the first female president of the Indian National Congress?",
+            "answer": "Annie Besant",
+            "note": "The Irish socialist and theosophist <strong>Annie Besant</strong> became the <u>first woman president</u> of the Indian National Congress at the Calcutta session in 1917."
+        },
+        {
+            "question": "Who founded the Servants of India Society?",
+            "answer": "Gopal Krishna Gokhale",
+            "note": "<strong>Gopal Krishna Gokhale</strong>, the political guru of Mahatma Gandhi, founded the <u>Servants of India Society</u> in 1905 to train Indians to devote their lives to the cause of the country."
+        },
+        {
+            "question": "Who founded the newspaper <strong>Kesari</strong>?",
+            "answer": "Bal Gangadhar Tilak",
+            "note": "<strong>Bal Gangadhar Tilak</strong> founded the Marathi newspaper <u>Kesari</u>. He used its columns to criticize British policies and spread nationalist ideas among the masses."
+        },
+        {
+            "question": "Who was a founder of the Hindustan Socialist Republican Association?",
+            "answer": "Chandra Shekhar Azad",
+            "note": "<strong>Chandra Shekhar Azad</strong> was a key leader and reorganizer of the <u>HSRA</u> (Hindustan Socialist Republican Association) in 1928, aiming for an independent socialist republic through armed revolution."
+        },
+        {
+            "question": "Where did Gandhi organize a Satyagraha for mill workers in 1918?",
+            "answer": "Ahmedabad",
+            "note": "In <strong>1918</strong>, Gandhi led the <u>Ahmedabad Mill Strike</u>. It was significant as his first use of a <em>hunger strike</em> as a political weapon to help workers secure a 35% wage hike."
+        },
+        {
+            "question": "In which language was <strong>Gulamgiri</strong> written?",
+            "answer": "Marathi",
+            "note": "<u>Gulamgiri</u> (Slavery), a powerful book critiquing the caste system and dedicated to the American movement to abolish slavery, was written by <strong>Jyotirao Phule</strong> in <strong>Marathi</strong>."
+        },
+        {
+            "question": "In which year was the World Parliament of Religions held in Chicago?",
+            "answer": "1893",
+            "note": "The <strong>World Parliament of Religions</strong> took place in <strong>1893</strong> in Chicago, where <em>Swami Vivekananda</em> gave his historic speech beginning with 'Sisters and brothers of America'."
+        },
+        {
+            "question": "In which year was the Indian Councils Act (Morley-Minto Reforms) passed?",
+            "answer": "1909",
+            "note": "The <strong>Indian Councils Act of 1909</strong>, known as the <u>Morley-Minto Reforms</u>, is infamous for introducing <em>separate electorates</em> for Muslims, sowing the seeds of communalism."
+        },
+        {
+            "question": "During whose tenure was the Indian Universities Act, 1904 passed?",
+            "answer": "Lord Curzon",
+            "note": "The <strong>Indian Universities Act (1904)</strong> was passed during the tenure of <strong>Lord Curzon</strong> to bring universities under tighter government control following the recommendations of the Raleigh Commission."
+        },
+        {
+            "question": "When was the first English factory established in Bengal?",
+            "answer": "1651 CE",
+            "note": "The English East India Company established its <u>first factory in Bengal</u> at <strong>Hooghly</strong> in <strong>1651 CE</strong>, under the permission of Sultan Shuja, the Governor of Bengal."
+        },
+        {
+            "question": "In which year was the Diwani of Bengal granted to the East India Company?",
+            "answer": "1765 CE",
+            "note": "Following the Battle of Buxar, the Mughal Emperor Shah Alam II granted the <u>Diwani Rights</u> (right to collect revenue) of Bengal, Bihar, and Odisha to the EIC in <strong>1765 CE</strong>."
+        },
+        {
+            "question": "Who was the last Governor-General of the East India Company?",
+            "answer": "Lord Canning",
+            "note": "<strong>Lord Canning</strong> was the <u>last Governor-General</u> appointed by the East India Company and became the first <em>Viceroy</em> of India after the Government of India Act 1858."
+        },
+        {
+            "question": "Who returned his knighthood after the Jallianwala Bagh massacre?",
+            "answer": "Rabindranath Tagore",
+            "note": "<strong>Rabindranath Tagore</strong> renounced his <u>Knighthood</u> in 1919 as a symbolic protest against the brutal <em>Jallianwala Bagh Massacre</em> in Amritsar."
+        },
+        {
+            "question": "Who introduced the Ryotwari system?",
+            "answer": "Thomas Munro",
+            "note": "<strong>Thomas Munro</strong> (along with Alexander Reed) introduced the <u>Ryotwari System</u> in the Madras and Bombay Presidencies. Under this, revenue was collected directly from the <em>Ryots</em> (cultivators)."
+        },
+        {
+            "question": "When did Vasco da Gama discover the sea route to India?",
+            "answer": "1498 CE",
+            "note": "The Portuguese explorer <strong>Vasco da Gama</strong> reached Calicut on the Malabar Coast in <strong>1498 CE</strong>, opening the direct <u>sea route</u> from Europe to India via the Cape of Good Hope."
+        },
+        {
+            "question": "In which year was the Treaty of Salbai signed?",
+            "answer": "1782 CE",
+            "note": "The <strong>Treaty of Salbai</strong> was signed in <strong>1782</strong>, ending the <em>First Anglo-Maratha War</em>. it resulted in a period of relative peace between the Marathas and the British for twenty years."
+        },
+        {
+            "question": "Which princely state was first annexed under the Doctrine of Lapse?",
+            "answer": "Satara",
+            "note": "<strong>Satara</strong> was the <u>first princely state</u> to be annexed by the British in 1848 through the application of Lord Dalhousie's controversial <em>Doctrine of Lapse</em>."
+        },
+        {
+            "question": "Against which country was the Opium War fought using Indian sepoys?",
+            "answer": "China",
+            "note": "The <strong>Opium Wars</strong> (1839–1860) were fought between <u>Britain and China</u>. The British used <em>Indian sepoys</em> and resources from the British Indian Army to force China to allow the opium trade, which was largely cultivated in India."
+        },
+        {
+            "question": "Where was the national anthem first sung in 1911?",
+            "answer": "Kolkata",
+            "note": "The national anthem, <em>Jana Gana Mana</em>, was <u>first sung</u> on December 27, <strong>1911</strong>, during the <strong>Kolkata</strong> (Calcutta) session of the <strong>Indian National Congress</strong>. It was composed by <em>Rabindranath Tagore</em>."
+        },
+        {
+            "question": "Who was the INC president in 1915?",
+            "answer": "Satyendra Prasad Sinha",
+            "note": "<strong>Satyendra Prasad Sinha</strong> (Lord Sinha) presided over the <u>1915 Bombay Session</u> of the INC. He was notably the first Indian to become a member of the Viceroy's Executive Council and the first Indian peer in the British House of Lords."
+        },
+        {
+            "question": "Who introduced the Blue Water Policy?",
+            "answer": "Francisco de Almeida",
+            "note": "<strong>Francisco de Almeida</strong>, the first Portuguese Viceroy in India, introduced the <u>Blue Water Policy</u>. The goal was to establish Portuguese <em>naval supremacy</em> in the Indian Ocean rather than building a land-based empire. "
+        },
+        {
+            "question": "What were cotton fabrics from Calicut called in Europe?",
+            "answer": "Calico",
+            "note": "The <strong>cotton fabrics</strong> exported from <u>Calicut</u> (modern-day Kozhikode) to Europe were known as <strong>Calico</strong>. This term eventually became a general name for all Indian cotton textiles in Western markets."
+        },
+        {
+            "question": "What was the oldest Dutch settlement in India?",
+            "answer": "Pulicat",
+            "note": "The <strong>Dutch East India Company</strong> established its <u>oldest and most significant settlement</u> at <strong>Pulicat</strong> (Tamil Nadu) in 1610. They built <em>Fort Geldria</em> here, which served as their headquarters on the Coromandel Coast."
+        },
+        {
+            "question": "What fort did the British build in Calcutta?",
+            "answer": "Fort William",
+            "note": "The British East India Company built <strong>Fort William</strong> in <u>Calcutta</u> (Kolkata) to protect their factory and trading interests. It was named after King William III of England and later became the seat of the Bengal Presidency."
+        },
+        {
+            "question": "Which places were major British trading centers in India?",
+            "answer": "Surat, Madras, Bombay, Calcutta",
+            "note": "The British established their <strong>major trading centers</strong> (Presidency towns) at <strong>Surat</strong> (first factory), <strong>Madras</strong> (Fort St. George), <strong>Bombay</strong> (received as dowry), and <strong>Calcutta</strong> (Fort William)."
+        },
+        {
+            "question": "Who founded the independent Bengal state?",
+            "answer": "Murshid Quli Khan",
+            "note": "<strong>Murshid Quli Khan</strong>, originally appointed as the Diwan of Bengal by Aurangzeb, became the first <u>independent Nawab of Bengal</u>. He shifted the capital from Dacca to <em>Murshidabad</em>."
+        },
+        {
+            "question": "Which treaty ended the Second Anglo-Mysore War?",
+            "answer": "Treaty of Mangalore",
+            "note": "The <strong>Treaty of Mangalore</strong> (1784) ended the <u>Second Anglo-Mysore War</u>. It was signed between <em>Tipu Sultan</em> and the British East India Company, with both parties agreeing to restore captured territories and prisoners."
+        },
+        {
+            "question": "Which region was given to the British under the Treaty of Srirangapatnam?",
+            "answer": "Malabar",
+            "note": "Under the <strong>Treaty of Srirangapatnam</strong> (1792), which ended the Third Anglo-Mysore War, Tipu Sultan had to cede half of his kingdom, including the <strong>Malabar</strong> region, to the British and their allies."
+        },
+        {
+            "question": "Which region was known as <strong>Kala Pani</strong>?",
+            "answer": "Andaman and Nicobar Islands",
+            "note": "The <strong>Cellular Jail</strong> in the <u>Andaman and Nicobar Islands</u> was known as <strong>Kala Pani</strong> ('Black Water'). It was used by the British to exile political prisoners and revolutionaries to a remote, inescapable location."
+        },
+        {
+            "question": "Where is Srirangapatnam Fort located?",
+            "answer": "Karnataka",
+            "note": "<strong>Srirangapatnam Fort</strong> is located on an island in the Cauvery River in the state of <strong>Karnataka</strong>. It was the historic capital of <em>Haider Ali</em> and <em>Tipu Sultan</em>."
+        },
+        {
+            "question": "Who started the Revolt of 1857?",
+            "answer": "The sepoys",
+            "note": "The <strong>Revolt of 1857</strong> was ignited by <u>the sepoys</u> (Indian soldiers) of the British East India Company's army at <strong>Meerut</strong>. The immediate cause was the introduction of the <em>Enfield rifle</em>, which was rumored to use greased cartridges offending both Hindus and Muslims."
+        }
+    ]
+}

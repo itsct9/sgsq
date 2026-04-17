@@ -1,0 +1,51 @@
+{
+  "topic": "computer",
+  "exams": {
+  "2024":   [
+    {
+      "title": "SSC CHSL 2024 T-1 Computer PART-1",
+      "slug": "ssc-chsl-2024-t-1-computer-part-1",
+      "question_file": "questions/computer/ssc-chsl-2024-t-1-computer-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Computer PART-2",
+      "slug": "ssc-chsl-2024-t-1-computer-part-2",
+      "question_file": "questions/computer/ssc-chsl-2024-t-1-computer-part-2.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CHSL 2022 Computer PART-1",
+      "slug": "ssc-chsl-2022-computer-part-1",
+      "question_file": "questions/computer/ssc-chsl-2022-computer-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Computer PART-2",
+      "slug": "ssc-chsl-2022-computer-part-2",
+      "question_file": "questions/computer/ssc-chsl-2022-computer-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Computer PART-3",
+      "slug": "ssc-chsl-2022-computer-part-3",
+      "question_file": "questions/computer/ssc-chsl-2022-computer-part-3.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CHSL 2020 Computer PART-1",
+      "slug": "ssc-chsl-2020-computer-part-1",
+      "question_file": "questions/computer/ssc-chsl-2020-computer-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Computer PART-2",
+      "slug": "ssc-chsl-2020-computer-part-2",
+      "question_file": "questions/computer/ssc-chsl-2020-computer-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Computer PART-3",
+      "slug": "ssc-chsl-2020-computer-part-3",
+      "question_file": "questions/computer/ssc-chsl-2020-computer-part-3.json"
+    }
+  ]
+}
+}

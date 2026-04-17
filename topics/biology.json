@@ -1,0 +1,272 @@
+{
+  "topic": "biology",
+  "exams": {
+  "2025":   [
+    {
+      "title": "SSC GD 2025 Biology",
+      "slug": "ssc-gd-2025-biology",
+      "question_file": "questions/biology/ssc-gd-2025-biology.json"
+    }
+  ],
+  "2024":   [
+    {
+      "title": "SSC CGL 2024 T-1 Biology PART-1",
+      "slug": "ssc-cgl-2024-t-1-biology-part-1",
+      "question_file": "questions/biology/ssc-cgl-2024-t-1-biology-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Biology PART-2",
+      "slug": "ssc-cgl-2024-t-1-biology-part-2",
+      "question_file": "questions/biology/ssc-cgl-2024-t-1-biology-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Biology PART-3",
+      "slug": "ssc-cgl-2024-t-1-biology-part-3",
+      "question_file": "questions/biology/ssc-cgl-2024-t-1-biology-part-3.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-2 Biology",
+      "slug": "ssc-cgl-2024-t-2-biology",
+      "question_file": "questions/biology/ssc-cgl-2024-t-2-biology.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Biology",
+      "slug": "ssc-chsl-2024-t-1-biology",
+      "question_file": "questions/biology/ssc-chsl-2024-t-1-biology.json"
+    },
+    {
+      "title": "SSC CPO 2024 Biology",
+      "slug": "ssc-cpo-2024-biology",
+      "question_file": "questions/biology/ssc-cpo-2024-biology.json"
+    },
+    {
+      "title": "SSC MTS 2024 Biology PART-1",
+      "slug": "ssc-mts-2024-biology-part-1",
+      "question_file": "questions/biology/ssc-mts-2024-biology-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2024 Biology PART-2",
+      "slug": "ssc-mts-2024-biology-part-2",
+      "question_file": "questions/biology/ssc-mts-2024-biology-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2024 Biology PART-3",
+      "slug": "ssc-mts-2024-biology-part-3",
+      "question_file": "questions/biology/ssc-mts-2024-biology-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2024 Biology PART-4",
+      "slug": "ssc-mts-2024-biology-part-4",
+      "question_file": "questions/biology/ssc-mts-2024-biology-part-4.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Biology",
+      "slug": "ssc-selection-post-xii-2024-biology",
+      "question_file": "questions/biology/ssc-selection-post-xii-2024-biology.json"
+    },
+    {
+      "title": "SSC STENO 2024 Biology",
+      "slug": "ssc-steno-2024-biology",
+      "question_file": "questions/biology/ssc-steno-2024-biology.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CGL 2023 Tier-1 Biology PART-1",
+      "slug": "ssc-cgl-2023-tier-1-biology-part-1",
+      "question_file": "questions/biology/ssc-cgl-2023-tier-1-biology-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Biology PART-2",
+      "slug": "ssc-cgl-2023-tier-1-biology-part-2",
+      "question_file": "questions/biology/ssc-cgl-2023-tier-1-biology-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Biology PART-3",
+      "slug": "ssc-cgl-2023-tier-1-biology-part-3",
+      "question_file": "questions/biology/ssc-cgl-2023-tier-1-biology-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Biology",
+      "slug": "ssc-chsl-2023-tier-1-biology",
+      "question_file": "questions/biology/ssc-chsl-2023-tier-1-biology.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Biology",
+      "slug": "ssc-cpo-2023-tier-1-biology",
+      "question_file": "questions/biology/ssc-cpo-2023-tier-1-biology.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Biology",
+      "slug": "ssc-mts-2023-tier-1-biology",
+      "question_file": "questions/biology/ssc-mts-2023-tier-1-biology.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CGL 2022 Tier 1 Biology PART-1",
+      "slug": "ssc-cgl-2022-tier-1-biology-part-1",
+      "question_file": "questions/biology/ssc-cgl-2022-tier-1-biology-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Biology PART-2",
+      "slug": "ssc-cgl-2022-tier-1-biology-part-2",
+      "question_file": "questions/biology/ssc-cgl-2022-tier-1-biology-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Biology PART-3",
+      "slug": "ssc-cgl-2022-tier-1-biology-part-3",
+      "question_file": "questions/biology/ssc-cgl-2022-tier-1-biology-part-3.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 2",
+      "slug": "ssc-cgl-2022-tier-2",
+      "question_file": "questions/biology/ssc-cgl-2022-tier-2.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Biology PART-1",
+      "slug": "ssc-chsl-2022-biology-part-1",
+      "question_file": "questions/biology/ssc-chsl-2022-biology-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Biology PART-2",
+      "slug": "ssc-chsl-2022-biology-part-2",
+      "question_file": "questions/biology/ssc-chsl-2022-biology-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2022 Biology PART-1",
+      "slug": "ssc-cpo-2022-biology-part-1",
+      "question_file": "questions/biology/ssc-cpo-2022-biology-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2022 Biology PART-2",
+      "slug": "ssc-cpo-2022-biology-part-2",
+      "question_file": "questions/biology/ssc-cpo-2022-biology-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2022 Biology PART-3",
+      "slug": "ssc-cpo-2022-biology-part-3",
+      "question_file": "questions/biology/ssc-cpo-2022-biology-part-3.json"
+    },
+    {
+      "title": "SSC CPO 2022 Biology PART-4",
+      "slug": "ssc-cpo-2022-biology-part-4",
+      "question_file": "questions/biology/ssc-cpo-2022-biology-part-4.json"
+    },
+    {
+      "title": "SSC GD 2022 Biology PART-1",
+      "slug": "ssc-gd-2022-biology-part-1",
+      "question_file": "questions/biology/ssc-gd-2022-biology-part-1.json"
+    },
+    {
+      "title": "SSC GD 2022 Biology PART-2",
+      "slug": "ssc-gd-2022-biology-part-2",
+      "question_file": "questions/biology/ssc-gd-2022-biology-part-2.json"
+    },
+    {
+      "title": "SSC GD 2022 Biology PART-3",
+      "slug": "ssc-gd-2022-biology-part-3",
+      "question_file": "questions/biology/ssc-gd-2022-biology-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2022 Biology PART-1",
+      "slug": "ssc-mts-2022-biology-part-1",
+      "question_file": "questions/biology/ssc-mts-2022-biology-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2022 Biology PART-2",
+      "slug": "ssc-mts-2022-biology-part-2",
+      "question_file": "questions/biology/ssc-mts-2022-biology-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2022 Biology PART-3",
+      "slug": "ssc-mts-2022-biology-part-3",
+      "question_file": "questions/biology/ssc-mts-2022-biology-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2022 Biology PART-4",
+      "slug": "ssc-mts-2022-biology-part-4",
+      "question_file": "questions/biology/ssc-mts-2022-biology-part-4.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 Biology PART-1",
+      "slug": "ssc-cgl-2021-biology-part-1",
+      "question_file": "questions/biology/ssc-cgl-2021-biology-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2021 Biology PART-2",
+      "slug": "ssc-cgl-2021-biology-part-2",
+      "question_file": "questions/biology/ssc-cgl-2021-biology-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Biology PART-1",
+      "slug": "ssc-chsl-2021-biology-part-1",
+      "question_file": "questions/biology/ssc-chsl-2021-biology-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Biology PART-2",
+      "slug": "ssc-chsl-2021-biology-part-2",
+      "question_file": "questions/biology/ssc-chsl-2021-biology-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Biology PART-3",
+      "slug": "ssc-chsl-2021-biology-part-3",
+      "question_file": "questions/biology/ssc-chsl-2021-biology-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2021 PART-1",
+      "slug": "ssc-mts-2021-part-1",
+      "question_file": "questions/biology/ssc-mts-2021-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2021 PART-2",
+      "slug": "ssc-mts-2021-part-2",
+      "question_file": "questions/biology/ssc-mts-2021-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2021 PART-3",
+      "slug": "ssc-mts-2021-part-3",
+      "question_file": "questions/biology/ssc-mts-2021-part-3.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 Biology",
+      "slug": "ssc-cgl-2020-biology",
+      "question_file": "questions/biology/ssc-cgl-2020-biology.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Biology PART-1",
+      "slug": "ssc-chsl-2020-biology-part-1",
+      "question_file": "questions/biology/ssc-chsl-2020-biology-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Biology PART-2",
+      "slug": "ssc-chsl-2020-biology-part-2",
+      "question_file": "questions/biology/ssc-chsl-2020-biology-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2020 Biology PART-1",
+      "slug": "ssc-mts-2020-biology-part-1",
+      "question_file": "questions/biology/ssc-mts-2020-biology-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2020 Biology PART-2",
+      "slug": "ssc-mts-2020-biology-part-2",
+      "question_file": "questions/biology/ssc-mts-2020-biology-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2020 Biology PART-3",
+      "slug": "ssc-mts-2020-biology-part-3",
+      "question_file": "questions/biology/ssc-mts-2020-biology-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2020 Biology PART-4",
+      "slug": "ssc-mts-2020-biology-part-4",
+      "question_file": "questions/biology/ssc-mts-2020-biology-part-4.json"
+    }
+  ]
+}
+}

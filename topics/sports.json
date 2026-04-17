@@ -1,0 +1,197 @@
+{
+  "topic": "sports",
+  "exams": {
+  "2025":   [
+    {
+      "title": "SSC GD 2025 Sports PART-1",
+      "slug": "ssc-gd-2025-sports-part-1",
+      "question_file": "questions/sports/ssc-gd-2025-sports-part-1.json"
+    },
+    {
+      "title": "SSC GD 2025 Sports PART-2",
+      "slug": "ssc-gd-2025-sports-part-2",
+      "question_file": "questions/sports/ssc-gd-2025-sports-part-2.json"
+    },
+    {
+      "title": "SSC GD 2025 Sports PART-3",
+      "slug": "ssc-gd-2025-sports-part-3",
+      "question_file": "questions/sports/ssc-gd-2025-sports-part-3.json"
+    }
+  ],
+  "2024":   [
+    {
+      "title": "SSC CGL 2024 T-1 Sports PART-1",
+      "slug": "ssc-cgl-2024-t-1-sports-part-1",
+      "question_file": "questions/sports/ssc-cgl-2024-t-1-sports-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Sports PART-2",
+      "slug": "ssc-cgl-2024-t-1-sports-part-2",
+      "question_file": "questions/sports/ssc-cgl-2024-t-1-sports-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Sports PART-3",
+      "slug": "ssc-cgl-2024-t-1-sports-part-3",
+      "question_file": "questions/sports/ssc-cgl-2024-t-1-sports-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Sports PART-1",
+      "slug": "ssc-chsl-2024-t-1-sports-part-1",
+      "question_file": "questions/sports/ssc-chsl-2024-t-1-sports-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Sports PART-2",
+      "slug": "ssc-chsl-2024-t-1-sports-part-2",
+      "question_file": "questions/sports/ssc-chsl-2024-t-1-sports-part-2.json"
+    },
+    {
+      "title": "SSC GD 2024 Sports PART-1",
+      "slug": "ssc-gd-2024-sports-part-1",
+      "question_file": "questions/sports/ssc-gd-2024-sports-part-1.json"
+    },
+    {
+      "title": "SSC GD 2024 Sports PART-2",
+      "slug": "ssc-gd-2024-sports-part-2",
+      "question_file": "questions/sports/ssc-gd-2024-sports-part-2.json"
+    },
+    {
+      "title": "SSC GD 2024 Sports PART-3",
+      "slug": "ssc-gd-2024-sports-part-3",
+      "question_file": "questions/sports/ssc-gd-2024-sports-part-3.json"
+    },
+    {
+      "title": "SSC GD 2024 Sports PART-4",
+      "slug": "ssc-gd-2024-sports-part-4",
+      "question_file": "questions/sports/ssc-gd-2024-sports-part-4.json"
+    },
+    {
+      "title": "SSC GD 2024 Sports PART-5",
+      "slug": "ssc-gd-2024-sports-part-5",
+      "question_file": "questions/sports/ssc-gd-2024-sports-part-5.json"
+    },
+    {
+      "title": "SSC GD 2024 Sports PART-6",
+      "slug": "ssc-gd-2024-sports-part-6",
+      "question_file": "questions/sports/ssc-gd-2024-sports-part-6.json"
+    },
+    {
+      "title": "SSC MTS 2024 Sports PART-1",
+      "slug": "ssc-mts-2024-sports-part-1",
+      "question_file": "questions/sports/ssc-mts-2024-sports-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2024 Sports PART-2",
+      "slug": "ssc-mts-2024-sports-part-2",
+      "question_file": "questions/sports/ssc-mts-2024-sports-part-2.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CGL 2023 Tier-1 Sports PART-1",
+      "slug": "ssc-cgl-2023-tier-1-sports-part-1",
+      "question_file": "questions/sports/ssc-cgl-2023-tier-1-sports-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Sports PART-2",
+      "slug": "ssc-cgl-2023-tier-1-sports-part-2",
+      "question_file": "questions/sports/ssc-cgl-2023-tier-1-sports-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Sports",
+      "slug": "ssc-chsl-2023-tier-1-sports",
+      "question_file": "questions/sports/ssc-chsl-2023-tier-1-sports.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Sports",
+      "slug": "ssc-cpo-2023-tier-1-sports",
+      "question_file": "questions/sports/ssc-cpo-2023-tier-1-sports.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Sports",
+      "slug": "ssc-mts-2023-tier-1-sports",
+      "question_file": "questions/sports/ssc-mts-2023-tier-1-sports.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CPO 2022 Sports",
+      "slug": "ssc-cpo-2022-sports",
+      "question_file": "questions/sports/ssc-cpo-2022-sports.json"
+    },
+    {
+      "title": "SSC GD 2022 Sports PART-1",
+      "slug": "ssc-gd-2022-sports-part-1",
+      "question_file": "questions/sports/ssc-gd-2022-sports-part-1.json"
+    },
+    {
+      "title": "SSC GD 2022 Sports PART-2",
+      "slug": "ssc-gd-2022-sports-part-2",
+      "question_file": "questions/sports/ssc-gd-2022-sports-part-2.json"
+    },
+    {
+      "title": "SSC GD 2022 Sports PART-3",
+      "slug": "ssc-gd-2022-sports-part-3",
+      "question_file": "questions/sports/ssc-gd-2022-sports-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 Sports PART-4",
+      "slug": "ssc-gd-2022-sports-part-4",
+      "question_file": "questions/sports/ssc-gd-2022-sports-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2022 Sports PART-1",
+      "slug": "ssc-mts-2022-sports-part-1",
+      "question_file": "questions/sports/ssc-mts-2022-sports-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2022 Sports PART-2",
+      "slug": "ssc-mts-2022-sports-part-2",
+      "question_file": "questions/sports/ssc-mts-2022-sports-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2022 Sports PART-3",
+      "slug": "ssc-mts-2022-sports-part-3",
+      "question_file": "questions/sports/ssc-mts-2022-sports-part-3.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 Sports",
+      "slug": "ssc-cgl-2021-sports",
+      "question_file": "questions/sports/ssc-cgl-2021-sports.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Sports PART-1",
+      "slug": "ssc-chsl-2021-sports-part-1",
+      "question_file": "questions/sports/ssc-chsl-2021-sports-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Sports PART-2",
+      "slug": "ssc-chsl-2021-sports-part-2",
+      "question_file": "questions/sports/ssc-chsl-2021-sports-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Sports PART-3",
+      "slug": "ssc-chsl-2021-sports-part-3",
+      "question_file": "questions/sports/ssc-chsl-2021-sports-part-3.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 Sports",
+      "slug": "ssc-cgl-2020-sports",
+      "question_file": "questions/sports/ssc-cgl-2020-sports.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Sports PART-1",
+      "slug": "ssc-chsl-2020-sports-part-1",
+      "question_file": "questions/sports/ssc-chsl-2020-sports-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Sports PART-2",
+      "slug": "ssc-chsl-2020-sports-part-2",
+      "question_file": "questions/sports/ssc-chsl-2020-sports-part-2.json"
+    }
+  ]
+}
+}

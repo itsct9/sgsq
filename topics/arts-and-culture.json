@@ -1,0 +1,412 @@
+{
+  "topic": "arts-and-culture",
+  "exams": {
+  "2025":   [
+    {
+      "title": "SSC GD 2025 Dance PART-1",
+      "slug": "ssc-gd-2025-dance-part-1",
+      "question_file": "questions/arts-and-culture/ssc-gd-2025-dance-part-1.json"
+    },
+    {
+      "title": "SSC GD 2025 Dance PART-2",
+      "slug": "ssc-gd-2025-dance-part-2",
+      "question_file": "questions/arts-and-culture/ssc-gd-2025-dance-part-2.json"
+    },
+    {
+      "title": "SSC GD 2025 Dance PART-3",
+      "slug": "ssc-gd-2025-dance-part-3",
+      "question_file": "questions/arts-and-culture/ssc-gd-2025-dance-part-3.json"
+    },
+    {
+      "title": "SSC GD 2025 Festivals PART-1",
+      "slug": "ssc-gd-2025-festivals-part-1",
+      "question_file": "questions/arts-and-culture/ssc-gd-2025-festivals-part-1.json"
+    },
+    {
+      "title": "SSC GD 2025 Festivals PART-2",
+      "slug": "ssc-gd-2025-festivals-part-2",
+      "question_file": "questions/arts-and-culture/ssc-gd-2025-festivals-part-2.json"
+    },
+    {
+      "title": "SSC GD 2025 Music & Musician PART-1",
+      "slug": "ssc-gd-2025-music-musician-part-1",
+      "question_file": "questions/arts-and-culture/ssc-gd-2025-music-musician-part-1.json"
+    },
+    {
+      "title": "SSC GD 2025 Music & Musician PART-2",
+      "slug": "ssc-gd-2025-music-musician-part-2",
+      "question_file": "questions/arts-and-culture/ssc-gd-2025-music-musician-part-2.json"
+    }
+  ],
+  "2024":   [
+    {
+      "title": "SSC CGL 2024 T-1 Dance",
+      "slug": "ssc-cgl-2024-t-1-dance",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2024-t-1-dance.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Festivals & Fairs",
+      "slug": "ssc-cgl-2024-t-1-festivals-fairs",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2024-t-1-festivals-fairs.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Music PART-1",
+      "slug": "ssc-cgl-2024-t-1-music-part-1",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2024-t-1-music-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Music PART-2",
+      "slug": "ssc-cgl-2024-t-1-music-part-2",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2024-t-1-music-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Music PART-3",
+      "slug": "ssc-cgl-2024-t-1-music-part-3",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2024-t-1-music-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Dance PART-1",
+      "slug": "ssc-chsl-2024-t-1-dance-part-1",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2024-t-1-dance-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Dance PART-2",
+      "slug": "ssc-chsl-2024-t-1-dance-part-2",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2024-t-1-dance-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Festivals & Fairs",
+      "slug": "ssc-chsl-2024-t-1-festivals-fairs",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2024-t-1-festivals-fairs.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Music PART 1",
+      "slug": "ssc-chsl-2024-t-1-music-part-1",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2024-t-1-music-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Music PART 2",
+      "slug": "ssc-chsl-2024-t-1-music-part-2",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2024-t-1-music-part-2.json"
+    },
+    {
+      "title": "SSC GD 2024 Dance PART-1",
+      "slug": "ssc-gd-2024-dance-part-1",
+      "question_file": "questions/arts-and-culture/ssc-gd-2024-dance-part-1.json"
+    },
+    {
+      "title": "SSC GD 2024 Dance PART-2",
+      "slug": "ssc-gd-2024-dance-part-2",
+      "question_file": "questions/arts-and-culture/ssc-gd-2024-dance-part-2.json"
+    },
+    {
+      "title": "SSC GD 2024 Dance PART-3",
+      "slug": "ssc-gd-2024-dance-part-3",
+      "question_file": "questions/arts-and-culture/ssc-gd-2024-dance-part-3.json"
+    },
+    {
+      "title": "SSC GD 2024 Dance PART-4",
+      "slug": "ssc-gd-2024-dance-part-4",
+      "question_file": "questions/arts-and-culture/ssc-gd-2024-dance-part-4.json"
+    },
+    {
+      "title": "SSC GD 2024 Festivals PART-1",
+      "slug": "ssc-gd-2024-festivals-part-1",
+      "question_file": "questions/arts-and-culture/ssc-gd-2024-festivals-part-1.json"
+    },
+    {
+      "title": "SSC GD 2024 Festivals PART-2",
+      "slug": "ssc-gd-2024-festivals-part-2",
+      "question_file": "questions/arts-and-culture/ssc-gd-2024-festivals-part-2.json"
+    },
+    {
+      "title": "SSC GD 2024 Festivals PART-3",
+      "slug": "ssc-gd-2024-festivals-part-3",
+      "question_file": "questions/arts-and-culture/ssc-gd-2024-festivals-part-3.json"
+    },
+    {
+      "title": "SSC GD 2024 Musical Instrument & Musicians PART-1",
+      "slug": "ssc-gd-2024-musical-instrument-musicians-part-1",
+      "question_file": "questions/arts-and-culture/ssc-gd-2024-musical-instrument-musicians-part-1.json"
+    },
+    {
+      "title": "SSC GD 2024 Musical Instrument & Musicians PART-2",
+      "slug": "ssc-gd-2024-musical-instrument-musicians-part-2",
+      "question_file": "questions/arts-and-culture/ssc-gd-2024-musical-instrument-musicians-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2024 Art & Culture PART-1",
+      "slug": "ssc-mts-2024-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-mts-2024-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2024 Art & Culture PART-2",
+      "slug": "ssc-mts-2024-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-mts-2024-art-culture-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2024 Art & Culture PART-3",
+      "slug": "ssc-mts-2024-art-culture-part-3",
+      "question_file": "questions/arts-and-culture/ssc-mts-2024-art-culture-part-3.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CGL 2023 Tier-1 Art & Culture PART-1",
+      "slug": "ssc-cgl-2023-tier-1-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2023-tier-1-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Art & Culture PART-2",
+      "slug": "ssc-cgl-2023-tier-1-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2023-tier-1-art-culture-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Art & Culture PART-3",
+      "slug": "ssc-cgl-2023-tier-1-art-culture-part-3",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2023-tier-1-art-culture-part-3.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Art & Culture PART-4",
+      "slug": "ssc-cgl-2023-tier-1-art-culture-part-4",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2023-tier-1-art-culture-part-4.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Art & Culture PART-5",
+      "slug": "ssc-cgl-2023-tier-1-art-culture-part-5",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2023-tier-1-art-culture-part-5.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Art & Culture PART-1",
+      "slug": "ssc-chsl-2023-tier-1-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2023-tier-1-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Art & Culture PART-2",
+      "slug": "ssc-chsl-2023-tier-1-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2023-tier-1-art-culture-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Art & Culture PART-3",
+      "slug": "ssc-chsl-2023-tier-1-art-culture-part-3",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2023-tier-1-art-culture-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Art & Culture PART-4",
+      "slug": "ssc-chsl-2023-tier-1-art-culture-part-4",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2023-tier-1-art-culture-part-4.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Art & Culture PART-5",
+      "slug": "ssc-chsl-2023-tier-1-art-culture-part-5",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2023-tier-1-art-culture-part-5.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Art & Culture PART-6",
+      "slug": "ssc-chsl-2023-tier-1-art-culture-part-6",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2023-tier-1-art-culture-part-6.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Art & Culture PART-1",
+      "slug": "ssc-cpo-2023-tier-1-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-cpo-2023-tier-1-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Art & Culture PART-2",
+      "slug": "ssc-cpo-2023-tier-1-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-cpo-2023-tier-1-art-culture-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Art & Culture PART-3",
+      "slug": "ssc-cpo-2023-tier-1-art-culture-part-3",
+      "question_file": "questions/arts-and-culture/ssc-cpo-2023-tier-1-art-culture-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Art & Culture PART-1",
+      "slug": "ssc-mts-2023-tier-1-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-mts-2023-tier-1-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Art & Culture PART-2",
+      "slug": "ssc-mts-2023-tier-1-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-mts-2023-tier-1-art-culture-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Art & Culture PART-3",
+      "slug": "ssc-mts-2023-tier-1-art-culture-part-3",
+      "question_file": "questions/arts-and-culture/ssc-mts-2023-tier-1-art-culture-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Art & Culture PART-4",
+      "slug": "ssc-mts-2023-tier-1-art-culture-part-4",
+      "question_file": "questions/arts-and-culture/ssc-mts-2023-tier-1-art-culture-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Art & Culture PART-5",
+      "slug": "ssc-mts-2023-tier-1-art-culture-part-5",
+      "question_file": "questions/arts-and-culture/ssc-mts-2023-tier-1-art-culture-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Art & Culture PART-6",
+      "slug": "ssc-mts-2023-tier-1-art-culture-part-6",
+      "question_file": "questions/arts-and-culture/ssc-mts-2023-tier-1-art-culture-part-6.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CPO 2022 Art & Culture PART-1",
+      "slug": "ssc-cpo-2022-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-cpo-2022-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2022 Art & Culture PART-2",
+      "slug": "ssc-cpo-2022-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-cpo-2022-art-culture-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2022 Art & Culture PART-3",
+      "slug": "ssc-cpo-2022-art-culture-part-3",
+      "question_file": "questions/arts-and-culture/ssc-cpo-2022-art-culture-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 Art & Culture PART-1",
+      "slug": "ssc-gd-2022-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-gd-2022-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC GD 2022 Art & Culture PART-2",
+      "slug": "ssc-gd-2022-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-gd-2022-art-culture-part-2.json"
+    },
+    {
+      "title": "SSC GD 2022 Art & Culture PART-3",
+      "slug": "ssc-gd-2022-art-culture-part-3",
+      "question_file": "questions/arts-and-culture/ssc-gd-2022-art-culture-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 Art & Culture PART-4",
+      "slug": "ssc-gd-2022-art-culture-part-4",
+      "question_file": "questions/arts-and-culture/ssc-gd-2022-art-culture-part-4.json"
+    },
+    {
+      "title": "SSC GD 2022 Art & Culture PART-5",
+      "slug": "ssc-gd-2022-art-culture-part-5",
+      "question_file": "questions/arts-and-culture/ssc-gd-2022-art-culture-part-5.json"
+    },
+    {
+      "title": "SSC GD 2022 Art & Culture PART-6",
+      "slug": "ssc-gd-2022-art-culture-part-6",
+      "question_file": "questions/arts-and-culture/ssc-gd-2022-art-culture-part-6.json"
+    },
+    {
+      "title": "SSC GD 2022 Art & Culture PART-7",
+      "slug": "ssc-gd-2022-art-culture-part-7",
+      "question_file": "questions/arts-and-culture/ssc-gd-2022-art-culture-part-7.json"
+    },
+    {
+      "title": "SSC MTS 2022 Art & Culture PART-1",
+      "slug": "ssc-mts-2022-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-mts-2022-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2022 Art & Culture PART-2",
+      "slug": "ssc-mts-2022-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-mts-2022-art-culture-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2022 Art & Culture PART-3",
+      "slug": "ssc-mts-2022-art-culture-part-3",
+      "question_file": "questions/arts-and-culture/ssc-mts-2022-art-culture-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2022 Art & Culture PART-4",
+      "slug": "ssc-mts-2022-art-culture-part-4",
+      "question_file": "questions/arts-and-culture/ssc-mts-2022-art-culture-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2022 Art & Culture PART-5",
+      "slug": "ssc-mts-2022-art-culture-part-5",
+      "question_file": "questions/arts-and-culture/ssc-mts-2022-art-culture-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2022 Art & Culture PART-6",
+      "slug": "ssc-mts-2022-art-culture-part-6",
+      "question_file": "questions/arts-and-culture/ssc-mts-2022-art-culture-part-6.json"
+    },
+    {
+      "title": "SSC MTS 2022 Art & Culture PART-7",
+      "slug": "ssc-mts-2022-art-culture-part-7",
+      "question_file": "questions/arts-and-culture/ssc-mts-2022-art-culture-part-7.json"
+    },
+    {
+      "title": "SSC MTS 2022 Art & Culture PART-8",
+      "slug": "ssc-mts-2022-art-culture-part-8",
+      "question_file": "questions/arts-and-culture/ssc-mts-2022-art-culture-part-8.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 Art & Culture",
+      "slug": "ssc-cgl-2021-art-culture",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2021-art-culture.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Art & Culture PART-1",
+      "slug": "ssc-chsl-2021-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2021-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Art & Culture PART-2",
+      "slug": "ssc-chsl-2021-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2021-art-culture-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Art & Culture PART-3",
+      "slug": "ssc-chsl-2021-art-culture-part-3",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2021-art-culture-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Art & Culture PART-4",
+      "slug": "ssc-chsl-2021-art-culture-part-4",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2021-art-culture-part-4.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Art & Culture PART-5",
+      "slug": "ssc-chsl-2021-art-culture-part-5",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2021-art-culture-part-5.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Art & Culture PART-6",
+      "slug": "ssc-chsl-2021-art-culture-part-6",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2021-art-culture-part-6.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Art & Culture PART-7",
+      "slug": "ssc-chsl-2021-art-culture-part-7",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2021-art-culture-part-7.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Art & Culture PART-8",
+      "slug": "ssc-chsl-2021-art-culture-part-8",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2021-art-culture-part-8.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 Art & Culture",
+      "slug": "ssc-cgl-2020-art-culture",
+      "question_file": "questions/arts-and-culture/ssc-cgl-2020-art-culture.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Art & Culture PART-1",
+      "slug": "ssc-chsl-2020-art-culture-part-1",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2020-art-culture-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Art & Culture PART-2",
+      "slug": "ssc-chsl-2020-art-culture-part-2",
+      "question_file": "questions/arts-and-culture/ssc-chsl-2020-art-culture-part-2.json"
+    }
+  ]
+}
+}

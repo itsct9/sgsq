@@ -1,0 +1,480 @@
+{
+  "topic": "static",
+  "exams": {
+  "2024":   [
+    {
+      "title": "SSC CGL 2024 T-1 Miscellaneous",
+      "slug": "ssc-cgl-2024-t-1-miscellaneous",
+      "question_file": "questions/static/ssc-cgl-2024-t-1-miscellaneous.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Miscellaneous",
+      "slug": "ssc-chsl-2024-t-1-miscellaneous",
+      "question_file": "questions/static/ssc-chsl-2024-t-1-miscellaneous.json"
+    },
+    {
+      "title": "SSC CPO 2024 Static Gk PART-1",
+      "slug": "ssc-cpo-2024-static-gk-part-1",
+      "question_file": "questions/static/ssc-cpo-2024-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2024 Static Gk PART-2",
+      "slug": "ssc-cpo-2024-static-gk-part-2",
+      "question_file": "questions/static/ssc-cpo-2024-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2024 Static Gk PART-3",
+      "slug": "ssc-cpo-2024-static-gk-part-3",
+      "question_file": "questions/static/ssc-cpo-2024-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2024 Miscellaneous",
+      "slug": "ssc-mts-2024-miscellaneous",
+      "question_file": "questions/static/ssc-mts-2024-miscellaneous.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Static Gk PART-1",
+      "slug": "ssc-selection-post-xii-2024-static-gk-part-1",
+      "question_file": "questions/static/ssc-selection-post-xii-2024-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Static Gk PART-2",
+      "slug": "ssc-selection-post-xii-2024-static-gk-part-2",
+      "question_file": "questions/static/ssc-selection-post-xii-2024-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Static Gk PART-3",
+      "slug": "ssc-selection-post-xii-2024-static-gk-part-3",
+      "question_file": "questions/static/ssc-selection-post-xii-2024-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC STENO 2024 Static Gk PART-1",
+      "slug": "ssc-steno-2024-static-gk-part-1",
+      "question_file": "questions/static/ssc-steno-2024-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC STENO 2024 Static Gk PART-2",
+      "slug": "ssc-steno-2024-static-gk-part-2",
+      "question_file": "questions/static/ssc-steno-2024-static-gk-part-2.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-1",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-1",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-10",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-10",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-10.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-2",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-2",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-3",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-3",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-4",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-4",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-4.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-5",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-5",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-5.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-6",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-6",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-6.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-7",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-7",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-7.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-8",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-8",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-8.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Static Gk PART-9",
+      "slug": "ssc-cgl-2023-tier-1-static-gk-part-9",
+      "question_file": "questions/static/ssc-cgl-2023-tier-1-static-gk-part-9.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Static Gk",
+      "slug": "ssc-chsl-2023-tier-1-static-gk",
+      "question_file": "questions/static/ssc-chsl-2023-tier-1-static-gk.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Static Gk",
+      "slug": "ssc-cpo-2023-tier-1-static-gk",
+      "question_file": "questions/static/ssc-cpo-2023-tier-1-static-gk.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Static Gk",
+      "slug": "ssc-mts-2023-tier-1-static-gk",
+      "question_file": "questions/static/ssc-mts-2023-tier-1-static-gk.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CGL 2022 Tier 1 Static Gk PART-1",
+      "slug": "ssc-cgl-2022-tier-1-static-gk-part-1",
+      "question_file": "questions/static/ssc-cgl-2022-tier-1-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Static Gk PART-2",
+      "slug": "ssc-cgl-2022-tier-1-static-gk-part-2",
+      "question_file": "questions/static/ssc-cgl-2022-tier-1-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Static Gk PART-3",
+      "slug": "ssc-cgl-2022-tier-1-static-gk-part-3",
+      "question_file": "questions/static/ssc-cgl-2022-tier-1-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Static Gk PART-4",
+      "slug": "ssc-cgl-2022-tier-1-static-gk-part-4",
+      "question_file": "questions/static/ssc-cgl-2022-tier-1-static-gk-part-4.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Static Gk PART-5",
+      "slug": "ssc-cgl-2022-tier-1-static-gk-part-5",
+      "question_file": "questions/static/ssc-cgl-2022-tier-1-static-gk-part-5.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Static Gk PART-6",
+      "slug": "ssc-cgl-2022-tier-1-static-gk-part-6",
+      "question_file": "questions/static/ssc-cgl-2022-tier-1-static-gk-part-6.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Static Gk PART-7",
+      "slug": "ssc-cgl-2022-tier-1-static-gk-part-7",
+      "question_file": "questions/static/ssc-cgl-2022-tier-1-static-gk-part-7.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Static Gk PART-8",
+      "slug": "ssc-cgl-2022-tier-1-static-gk-part-8",
+      "question_file": "questions/static/ssc-cgl-2022-tier-1-static-gk-part-8.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Static Gk PART-9",
+      "slug": "ssc-cgl-2022-tier-1-static-gk-part-9",
+      "question_file": "questions/static/ssc-cgl-2022-tier-1-static-gk-part-9.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Static Gk PART-1",
+      "slug": "ssc-chsl-2022-static-gk-part-1",
+      "question_file": "questions/static/ssc-chsl-2022-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Static Gk PART-2",
+      "slug": "ssc-chsl-2022-static-gk-part-2",
+      "question_file": "questions/static/ssc-chsl-2022-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Static Gk PART-3",
+      "slug": "ssc-chsl-2022-static-gk-part-3",
+      "question_file": "questions/static/ssc-chsl-2022-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Static Gk PART-4",
+      "slug": "ssc-chsl-2022-static-gk-part-4",
+      "question_file": "questions/static/ssc-chsl-2022-static-gk-part-4.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Static Gk PART-5",
+      "slug": "ssc-chsl-2022-static-gk-part-5",
+      "question_file": "questions/static/ssc-chsl-2022-static-gk-part-5.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Static Gk PART-6",
+      "slug": "ssc-chsl-2022-static-gk-part-6",
+      "question_file": "questions/static/ssc-chsl-2022-static-gk-part-6.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Static Gk PART-7",
+      "slug": "ssc-chsl-2022-static-gk-part-7",
+      "question_file": "questions/static/ssc-chsl-2022-static-gk-part-7.json"
+    },
+    {
+      "title": "SSC GD 2022 Static Gk PART-1",
+      "slug": "ssc-gd-2022-static-gk-part-1",
+      "question_file": "questions/static/ssc-gd-2022-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC GD 2022 Static Gk PART-2",
+      "slug": "ssc-gd-2022-static-gk-part-2",
+      "question_file": "questions/static/ssc-gd-2022-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC GD 2022 Static Gk PART-3",
+      "slug": "ssc-gd-2022-static-gk-part-3",
+      "question_file": "questions/static/ssc-gd-2022-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 Static Gk PART-4",
+      "slug": "ssc-gd-2022-static-gk-part-4",
+      "question_file": "questions/static/ssc-gd-2022-static-gk-part-4.json"
+    },
+    {
+      "title": "SSC GD 2022 Static Gk PART-5",
+      "slug": "ssc-gd-2022-static-gk-part-5",
+      "question_file": "questions/static/ssc-gd-2022-static-gk-part-5.json"
+    },
+    {
+      "title": "SSC GD 2022 Static Gk PART-6",
+      "slug": "ssc-gd-2022-static-gk-part-6",
+      "question_file": "questions/static/ssc-gd-2022-static-gk-part-6.json"
+    },
+    {
+      "title": "SSC GD 2022 Static Gk PART-7",
+      "slug": "ssc-gd-2022-static-gk-part-7",
+      "question_file": "questions/static/ssc-gd-2022-static-gk-part-7.json"
+    },
+    {
+      "title": "SSC GD 2022 Static Gk PART-8",
+      "slug": "ssc-gd-2022-static-gk-part-8",
+      "question_file": "questions/static/ssc-gd-2022-static-gk-part-8.json"
+    },
+    {
+      "title": "SSC MTS 2022 Static Gk PART-1",
+      "slug": "ssc-mts-2022-static-gk-part-1",
+      "question_file": "questions/static/ssc-mts-2022-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2022 Static Gk PART-2",
+      "slug": "ssc-mts-2022-static-gk-part-2",
+      "question_file": "questions/static/ssc-mts-2022-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2022 Static Gk PART-3",
+      "slug": "ssc-mts-2022-static-gk-part-3",
+      "question_file": "questions/static/ssc-mts-2022-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2022 Static Gk PART-4",
+      "slug": "ssc-mts-2022-static-gk-part-4",
+      "question_file": "questions/static/ssc-mts-2022-static-gk-part-4.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 Static Gk",
+      "slug": "ssc-cgl-2021-static-gk",
+      "question_file": "questions/static/ssc-cgl-2021-static-gk.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Static Gk PART-1",
+      "slug": "ssc-chsl-2021-static-gk-part-1",
+      "question_file": "questions/static/ssc-chsl-2021-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Static Gk PART-2",
+      "slug": "ssc-chsl-2021-static-gk-part-2",
+      "question_file": "questions/static/ssc-chsl-2021-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Static Gk PART-3",
+      "slug": "ssc-chsl-2021-static-gk-part-3",
+      "question_file": "questions/static/ssc-chsl-2021-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Static Gk PART-4",
+      "slug": "ssc-chsl-2021-static-gk-part-4",
+      "question_file": "questions/static/ssc-chsl-2021-static-gk-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-1",
+      "slug": "ssc-mts-2021-static-gk-part-1",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-10",
+      "slug": "ssc-mts-2021-static-gk-part-10",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-10.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-11",
+      "slug": "ssc-mts-2021-static-gk-part-11",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-11.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-12",
+      "slug": "ssc-mts-2021-static-gk-part-12",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-12.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-13",
+      "slug": "ssc-mts-2021-static-gk-part-13",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-13.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-14",
+      "slug": "ssc-mts-2021-static-gk-part-14",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-14.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-15",
+      "slug": "ssc-mts-2021-static-gk-part-15",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-15.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-2",
+      "slug": "ssc-mts-2021-static-gk-part-2",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-3",
+      "slug": "ssc-mts-2021-static-gk-part-3",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-4",
+      "slug": "ssc-mts-2021-static-gk-part-4",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-5",
+      "slug": "ssc-mts-2021-static-gk-part-5",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-6",
+      "slug": "ssc-mts-2021-static-gk-part-6",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-6.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-7",
+      "slug": "ssc-mts-2021-static-gk-part-7",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-7.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-8",
+      "slug": "ssc-mts-2021-static-gk-part-8",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-8.json"
+    },
+    {
+      "title": "SSC MTS 2021 Static Gk PART-9",
+      "slug": "ssc-mts-2021-static-gk-part-9",
+      "question_file": "questions/static/ssc-mts-2021-static-gk-part-9.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 Static Gk PART-1",
+      "slug": "ssc-cgl-2020-static-gk-part-1",
+      "question_file": "questions/static/ssc-cgl-2020-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2020 Static Gk PART-2",
+      "slug": "ssc-cgl-2020-static-gk-part-2",
+      "question_file": "questions/static/ssc-cgl-2020-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2020 Static Gk PART-3",
+      "slug": "ssc-cgl-2020-static-gk-part-3",
+      "question_file": "questions/static/ssc-cgl-2020-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Static Gk PART-1",
+      "slug": "ssc-chsl-2020-static-gk-part-1",
+      "question_file": "questions/static/ssc-chsl-2020-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Static Gk PART-2",
+      "slug": "ssc-chsl-2020-static-gk-part-2",
+      "question_file": "questions/static/ssc-chsl-2020-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Static Gk PART-3",
+      "slug": "ssc-chsl-2020-static-gk-part-3",
+      "question_file": "questions/static/ssc-chsl-2020-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Static Gk PART-4",
+      "slug": "ssc-chsl-2020-static-gk-part-4",
+      "question_file": "questions/static/ssc-chsl-2020-static-gk-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-1",
+      "slug": "ssc-mts-2020-static-gk-part-1",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-10",
+      "slug": "ssc-mts-2020-static-gk-part-10",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-10.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-11",
+      "slug": "ssc-mts-2020-static-gk-part-11",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-11.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-12",
+      "slug": "ssc-mts-2020-static-gk-part-12",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-12.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-13",
+      "slug": "ssc-mts-2020-static-gk-part-13",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-13.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-14",
+      "slug": "ssc-mts-2020-static-gk-part-14",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-14.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-2",
+      "slug": "ssc-mts-2020-static-gk-part-2",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-3",
+      "slug": "ssc-mts-2020-static-gk-part-3",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-4",
+      "slug": "ssc-mts-2020-static-gk-part-4",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-5",
+      "slug": "ssc-mts-2020-static-gk-part-5",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-6",
+      "slug": "ssc-mts-2020-static-gk-part-6",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-6.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-7",
+      "slug": "ssc-mts-2020-static-gk-part-7",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-7.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-8",
+      "slug": "ssc-mts-2020-static-gk-part-8",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-8.json"
+    },
+    {
+      "title": "SSC MTS 2020 Static Gk PART-9",
+      "slug": "ssc-mts-2020-static-gk-part-9",
+      "question_file": "questions/static/ssc-mts-2020-static-gk-part-9.json"
+    }
+  ]
+}
+}

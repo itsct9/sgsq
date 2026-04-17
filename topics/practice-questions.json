@@ -1,0 +1,529 @@
+{
+  "topic": "practice-questions",
+  "exams": {
+    "Ancient History": [
+      {
+        "title": "Ancient History Pratice Questions PART 1",
+        "slug": "ancient-history-pratice-questions-part-1",
+        "question_file": "questions/practice-questions/ancient-history-pratice-questions-part-1.json"
+      },
+      {
+        "title": "Ancient History Pratice Questions PART 2",
+        "slug": "ancient-history-pratice-questions-part-2",
+        "question_file": "questions/practice-questions/ancient-history-pratice-questions-part-2.json"
+      },
+      {
+        "title": "Ancient History Pratice Questions PART 3",
+        "slug": "ancient-history-pratice-questions-part-3",
+        "question_file": "questions/practice-questions/ancient-history-pratice-questions-part-3.json"
+      },
+      {
+        "title": "Ancient History Pratice Questions PART 4",
+        "slug": "ancient-history-pratice-questions-part-4",
+        "question_file": "questions/practice-questions/ancient-history-pratice-questions-part-4.json"
+      },
+      {
+        "title": "Ancient History Pratice Questions PART 5",
+        "slug": "ancient-history-pratice-questions-part-5",
+        "question_file": "questions/practice-questions/ancient-history-pratice-questions-part-5.json"
+      },
+      {
+        "title": "Ancient History Pratice Questions PART 6",
+        "slug": "ancient-history-pratice-questions-part-6",
+        "question_file": "questions/practice-questions/ancient-history-pratice-questions-part-6.json"
+      },
+      {
+        "title": "Ancient History Pratice Questions PART 7",
+        "slug": "ancient-history-pratice-questions-part-7",
+        "question_file": "questions/practice-questions/ancient-history-pratice-questions-part-7.json"
+      },
+      {
+        "title": "Ancient History Pratice Questions PART 8",
+        "slug": "ancient-history-pratice-questions-part-8",
+        "question_file": "questions/practice-questions/ancient-history-pratice-questions-part-8.json"
+      },
+      {
+        "title": "Ancient History Pratice Questions PART 9",
+        "slug": "ancient-history-pratice-questions-part-9",
+        "question_file": "questions/practice-questions/ancient-history-pratice-questions-part-9.json"
+      }
+    ],
+    "Biology": [
+      {
+        "title": "Biology Pratice Questions PART-1",
+        "slug": "biology-pratice-questions-part-1",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-1.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-2",
+        "slug": "biology-pratice-questions-part-2",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-2.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-3",
+        "slug": "biology-pratice-questions-part-3",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-3.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-4",
+        "slug": "biology-pratice-questions-part-4",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-4.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-5",
+        "slug": "biology-pratice-questions-part-5",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-5.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-6",
+        "slug": "biology-pratice-questions-part-6",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-6.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-7",
+        "slug": "biology-pratice-questions-part-7",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-7.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-8",
+        "slug": "biology-pratice-questions-part-8",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-8.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-9",
+        "slug": "biology-pratice-questions-part-9",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-9.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-10",
+        "slug": "biology-pratice-questions-part-10",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-10.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-11",
+        "slug": "biology-pratice-questions-part-11",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-11.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-12",
+        "slug": "biology-pratice-questions-part-12",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-12.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-13",
+        "slug": "biology-pratice-questions-part-13",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-13.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-14",
+        "slug": "biology-pratice-questions-part-14",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-14.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-15",
+        "slug": "biology-pratice-questions-part-15",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-15.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-16",
+        "slug": "biology-pratice-questions-part-16",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-16.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-17",
+        "slug": "biology-pratice-questions-part-17",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-17.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-18",
+        "slug": "biology-pratice-questions-part-18",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-18.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-19",
+        "slug": "biology-pratice-questions-part-19",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-19.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-20",
+        "slug": "biology-pratice-questions-part-20",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-20.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-21",
+        "slug": "biology-pratice-questions-part-21",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-21.json"
+      },
+      {
+        "title": "Biology Pratice Questions PART-22",
+        "slug": "biology-pratice-questions-part-22",
+        "question_file": "questions/practice-questions/biology-pratice-questions-part-22.json"
+      }
+    ],
+    "Economics": [
+      {
+        "title": "Economics Pratice Questions PART-1",
+        "slug": "economics-pratice-questions-part-1",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-1.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-2",
+        "slug": "economics-pratice-questions-part-2",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-2.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-3",
+        "slug": "economics-pratice-questions-part-3",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-3.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-4",
+        "slug": "economics-pratice-questions-part-4",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-4.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-5",
+        "slug": "economics-pratice-questions-part-5",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-5.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-6",
+        "slug": "economics-pratice-questions-part-6",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-6.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-7",
+        "slug": "economics-pratice-questions-part-7",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-7.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-8",
+        "slug": "economics-pratice-questions-part-8",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-8.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-9",
+        "slug": "economics-pratice-questions-part-9",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-9.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-10",
+        "slug": "economics-pratice-questions-part-10",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-10.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-11",
+        "slug": "economics-pratice-questions-part-11",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-11.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-12",
+        "slug": "economics-pratice-questions-part-12",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-12.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-13",
+        "slug": "economics-pratice-questions-part-13",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-13.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-14",
+        "slug": "economics-pratice-questions-part-14",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-14.json"
+      },
+      {
+        "title": "Economics Pratice Questions PART-15",
+        "slug": "economics-pratice-questions-part-15",
+        "question_file": "questions/practice-questions/economics-pratice-questions-part-15.json"
+      }
+    ],
+    "Geography": [
+      {
+        "title": "Geography Pratice Questions PART-1",
+        "slug": "geography-pratice-questions-part-1",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-1.json"
+      },
+      {
+        "title": "Geography Pratice Questions PART-2",
+        "slug": "geography-pratice-questions-part-2",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-2.json"
+      },
+      {
+        "title": "Geography Pratice Questions PART-3",
+        "slug": "geography-pratice-questions-part-3",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-3.json"
+      },
+      {
+        "title": "Geography Pratice Questions PART-4",
+        "slug": "geography-pratice-questions-part-4",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-4.json"
+      },
+      {
+        "title": "Geography Pratice Questions PART-5",
+        "slug": "geography-pratice-questions-part-5",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-5.json"
+      },
+      {
+        "title": "Geography Pratice Questions PART-6",
+        "slug": "geography-pratice-questions-part-6",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-6.json"
+      },
+      {
+        "title": "Geography Pratice Questions PART-7",
+        "slug": "geography-pratice-questions-part-7",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-7.json"
+      },
+      {
+        "title": "Geography Pratice Questions PART-8",
+        "slug": "geography-pratice-questions-part-8",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-8.json"
+      },
+      {
+        "title": "Geography Pratice Questions PART-9",
+        "slug": "geography-pratice-questions-part-9",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-9.json"
+      },
+      {
+        "title": "Geography Pratice Questions PART-10",
+        "slug": "geography-pratice-questions-part-10",
+        "question_file": "questions/practice-questions/geography-pratice-questions-part-10.json"
+      }
+    ],
+    "Medieval History": [
+      {
+        "title": "Medieval History Pratice Questions PART-1",
+        "slug": "medieval-history-pratice-questions-part-1",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-1.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-2",
+        "slug": "medieval-history-pratice-questions-part-2",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-2.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-3",
+        "slug": "medieval-history-pratice-questions-part-3",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-3.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-4",
+        "slug": "medieval-history-pratice-questions-part-4",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-4.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-5",
+        "slug": "medieval-history-pratice-questions-part-5",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-5.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-6",
+        "slug": "medieval-history-pratice-questions-part-6",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-6.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-7",
+        "slug": "medieval-history-pratice-questions-part-7",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-7.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-8",
+        "slug": "medieval-history-pratice-questions-part-8",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-8.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-9",
+        "slug": "medieval-history-pratice-questions-part-9",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-9.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-10",
+        "slug": "medieval-history-pratice-questions-part-10",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-10.json"
+      },
+      {
+        "title": "Medieval History Pratice Questions PART-11",
+        "slug": "medieval-history-pratice-questions-part-11",
+        "question_file": "questions/practice-questions/medieval-history-pratice-questions-part-11.json"
+      }
+    ],
+    "Modern History": [
+      {
+        "title": "Modern History Pratice Questions PART-1",
+        "slug": "modern-history-pratice-questions-part-1",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-1.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-2",
+        "slug": "modern-history-pratice-questions-part-2",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-2.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-3",
+        "slug": "modern-history-pratice-questions-part-3",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-3.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-4",
+        "slug": "modern-history-pratice-questions-part-4",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-4.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-5",
+        "slug": "modern-history-pratice-questions-part-5",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-5.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-6",
+        "slug": "modern-history-pratice-questions-part-6",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-6.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-7",
+        "slug": "modern-history-pratice-questions-part-7",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-7.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-8",
+        "slug": "modern-history-pratice-questions-part-8",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-8.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-9",
+        "slug": "modern-history-pratice-questions-part-9",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-9.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-10",
+        "slug": "modern-history-pratice-questions-part-10",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-10.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-11",
+        "slug": "modern-history-pratice-questions-part-11",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-11.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-12",
+        "slug": "modern-history-pratice-questions-part-12",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-12.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-13",
+        "slug": "modern-history-pratice-questions-part-13",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-13.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-14",
+        "slug": "modern-history-pratice-questions-part-14",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-14.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-15",
+        "slug": "modern-history-pratice-questions-part-15",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-15.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-16",
+        "slug": "modern-history-pratice-questions-part-16",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-16.json"
+      },
+      {
+        "title": "Modern History Pratice Questions PART-17",
+        "slug": "modern-history-pratice-questions-part-17",
+        "question_file": "questions/practice-questions/modern-history-pratice-questions-part-17.json"
+      }
+    ],
+    "Polity": [
+      {
+        "title": "Polity Pratice Questions PART-1",
+        "slug": "polity-pratice-questions-part-1",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-1.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-2",
+        "slug": "polity-pratice-questions-part-2",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-2.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-3",
+        "slug": "polity-pratice-questions-part-3",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-3.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-4",
+        "slug": "polity-pratice-questions-part-4",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-4.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-5",
+        "slug": "polity-pratice-questions-part-5",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-5.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-6",
+        "slug": "polity-pratice-questions-part-6",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-6.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-7",
+        "slug": "polity-pratice-questions-part-7",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-7.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-8",
+        "slug": "polity-pratice-questions-part-8",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-8.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-9",
+        "slug": "polity-pratice-questions-part-9",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-9.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-10",
+        "slug": "polity-pratice-questions-part-10",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-10.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-11",
+        "slug": "polity-pratice-questions-part-11",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-11.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-12",
+        "slug": "polity-pratice-questions-part-12",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-12.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-13",
+        "slug": "polity-pratice-questions-part-13",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-13.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-14",
+        "slug": "polity-pratice-questions-part-14",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-14.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-15",
+        "slug": "polity-pratice-questions-part-15",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-15.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-16",
+        "slug": "polity-pratice-questions-part-16",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-16.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-17",
+        "slug": "polity-pratice-questions-part-17",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-17.json"
+      },
+      {
+        "title": "Polity Pratice Questions PART-18",
+        "slug": "polity-pratice-questions-part-18",
+        "question_file": "questions/practice-questions/polity-pratice-questions-part-18.json"
+      }
+    ]
+  }
+}

@@ -1,0 +1,115 @@
+{
+  "topic": "books-and-authors",
+  "exams": {
+  "2024":   [
+    {
+      "title": "SSC MTS 2024 Books-authors PART-1",
+      "slug": "ssc-mts-2024-books-authors-part-1",
+      "question_file": "questions/books-and-authors/ssc-mts-2024-books-authors-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2024 Books-authors PART-2",
+      "slug": "ssc-mts-2024-books-authors-part-2",
+      "question_file": "questions/books-and-authors/ssc-mts-2024-books-authors-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2024 Books-authors PART-3",
+      "slug": "ssc-mts-2024-books-authors-part-3",
+      "question_file": "questions/books-and-authors/ssc-mts-2024-books-authors-part-3.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CHSL 2023 Tier-1 Books-authors",
+      "slug": "ssc-chsl-2023-tier-1-books-authors",
+      "question_file": "questions/books-and-authors/ssc-chsl-2023-tier-1-books-authors.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Books-authors",
+      "slug": "ssc-cpo-2023-tier-1-books-authors",
+      "question_file": "questions/books-and-authors/ssc-cpo-2023-tier-1-books-authors.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Books-authors PART-1",
+      "slug": "ssc-mts-2023-tier-1-books-authors-part-1",
+      "question_file": "questions/books-and-authors/ssc-mts-2023-tier-1-books-authors-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Books-authors PART-2",
+      "slug": "ssc-mts-2023-tier-1-books-authors-part-2",
+      "question_file": "questions/books-and-authors/ssc-mts-2023-tier-1-books-authors-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Books-authors PART-3",
+      "slug": "ssc-mts-2023-tier-1-books-authors-part-3",
+      "question_file": "questions/books-and-authors/ssc-mts-2023-tier-1-books-authors-part-3.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CPO 2022 Books-authors",
+      "slug": "ssc-cpo-2022-books-authors",
+      "question_file": "questions/books-and-authors/ssc-cpo-2022-books-authors.json"
+    },
+    {
+      "title": "SSC MTS 2022 Books-authors PART-1",
+      "slug": "ssc-mts-2022-books-authors-part-1",
+      "question_file": "questions/books-and-authors/ssc-mts-2022-books-authors-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2022 Books-authors PART-2",
+      "slug": "ssc-mts-2022-books-authors-part-2",
+      "question_file": "questions/books-and-authors/ssc-mts-2022-books-authors-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2022 Books-authors PART-3",
+      "slug": "ssc-mts-2022-books-authors-part-3",
+      "question_file": "questions/books-and-authors/ssc-mts-2022-books-authors-part-3.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 Books-authors",
+      "slug": "ssc-cgl-2021-books-authors",
+      "question_file": "questions/books-and-authors/ssc-cgl-2021-books-authors.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Books-authors PART-1",
+      "slug": "ssc-chsl-2021-books-authors-part-1",
+      "question_file": "questions/books-and-authors/ssc-chsl-2021-books-authors-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Books-authors PART-2",
+      "slug": "ssc-chsl-2021-books-authors-part-2",
+      "question_file": "questions/books-and-authors/ssc-chsl-2021-books-authors-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Books-authors PART-3",
+      "slug": "ssc-chsl-2021-books-authors-part-3",
+      "question_file": "questions/books-and-authors/ssc-chsl-2021-books-authors-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Books-authors PART-4",
+      "slug": "ssc-chsl-2021-books-authors-part-4",
+      "question_file": "questions/books-and-authors/ssc-chsl-2021-books-authors-part-4.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Books-authors PART-5",
+      "slug": "ssc-chsl-2021-books-authors-part-5",
+      "question_file": "questions/books-and-authors/ssc-chsl-2021-books-authors-part-5.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 Books-authors",
+      "slug": "ssc-cgl-2020-books-authors",
+      "question_file": "questions/books-and-authors/ssc-cgl-2020-books-authors.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Books-authors",
+      "slug": "ssc-chsl-2020-books-authors",
+      "question_file": "questions/books-and-authors/ssc-chsl-2020-books-authors.json"
+    }
+  ]
+}
+}

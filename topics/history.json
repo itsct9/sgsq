@@ -1,0 +1,457 @@
+{
+  "topic": "history",
+  "exams": {
+  "2025":   [
+    {
+      "title": "SSC GD 2025 History PART-1",
+      "slug": "ssc-gd-2025-history-part-1",
+      "question_file": "questions/history/ssc-gd-2025-history-part-1.json"
+    },
+    {
+      "title": "SSC GD 2025 History PART-2",
+      "slug": "ssc-gd-2025-history-part-2",
+      "question_file": "questions/history/ssc-gd-2025-history-part-2.json"
+    }
+  ],
+  "2024":   [
+    {
+      "title": "SSC CGL 2024 T-1 History",
+      "slug": "ssc-cgl-2024-t-1-history",
+      "question_file": "questions/history/ssc-cgl-2024-t-1-history.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-2 History",
+      "slug": "ssc-cgl-2024-t-2-history",
+      "question_file": "questions/history/ssc-cgl-2024-t-2-history.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 History PART-1",
+      "slug": "ssc-chsl-2024-t-1-history-part-1",
+      "question_file": "questions/history/ssc-chsl-2024-t-1-history-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 History PART-2",
+      "slug": "ssc-chsl-2024-t-1-history-part-2",
+      "question_file": "questions/history/ssc-chsl-2024-t-1-history-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2024 History PART-1",
+      "slug": "ssc-cpo-2024-history-part-1",
+      "question_file": "questions/history/ssc-cpo-2024-history-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2024 History PART-2",
+      "slug": "ssc-cpo-2024-history-part-2",
+      "question_file": "questions/history/ssc-cpo-2024-history-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2024 History PART-3",
+      "slug": "ssc-cpo-2024-history-part-3",
+      "question_file": "questions/history/ssc-cpo-2024-history-part-3.json"
+    },
+    {
+      "title": "SSC GD 2024 History PART-1",
+      "slug": "ssc-gd-2024-history-part-1",
+      "question_file": "questions/history/ssc-gd-2024-history-part-1.json"
+    },
+    {
+      "title": "SSC GD 2024 History PART-2",
+      "slug": "ssc-gd-2024-history-part-2",
+      "question_file": "questions/history/ssc-gd-2024-history-part-2.json"
+    },
+    {
+      "title": "SSC GD 2024 History PART-3",
+      "slug": "ssc-gd-2024-history-part-3",
+      "question_file": "questions/history/ssc-gd-2024-history-part-3.json"
+    },
+    {
+      "title": "SSC GD 2024 History PART-4",
+      "slug": "ssc-gd-2024-history-part-4",
+      "question_file": "questions/history/ssc-gd-2024-history-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2024 History PART-1",
+      "slug": "ssc-mts-2024-history-part-1",
+      "question_file": "questions/history/ssc-mts-2024-history-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2024 History PART-2",
+      "slug": "ssc-mts-2024-history-part-2",
+      "question_file": "questions/history/ssc-mts-2024-history-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2024 History PART-3",
+      "slug": "ssc-mts-2024-history-part-3",
+      "question_file": "questions/history/ssc-mts-2024-history-part-3.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 History PART-1",
+      "slug": "ssc-selection-post-xii-2024-history-part-1",
+      "question_file": "questions/history/ssc-selection-post-xii-2024-history-part-1.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 History PART-2",
+      "slug": "ssc-selection-post-xii-2024-history-part-2",
+      "question_file": "questions/history/ssc-selection-post-xii-2024-history-part-2.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 History PART-3",
+      "slug": "ssc-selection-post-xii-2024-history-part-3",
+      "question_file": "questions/history/ssc-selection-post-xii-2024-history-part-3.json"
+    },
+    {
+      "title": "SSC STENO 2024 History PART-1",
+      "slug": "ssc-steno-2024-history-part-1",
+      "question_file": "questions/history/ssc-steno-2024-history-part-1.json"
+    },
+    {
+      "title": "SSC STENO 2024 History PART-2",
+      "slug": "ssc-steno-2024-history-part-2",
+      "question_file": "questions/history/ssc-steno-2024-history-part-2.json"
+    },
+    {
+      "title": "SSC STENO 2024 History PART-3",
+      "slug": "ssc-steno-2024-history-part-3",
+      "question_file": "questions/history/ssc-steno-2024-history-part-3.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CGL 2023 Tier-1 PART 1 History",
+      "slug": "ssc-cgl-2023-tier-1-part-1-history",
+      "question_file": "questions/history/ssc-cgl-2023-tier-1-part-1-history.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 PART 2 History",
+      "slug": "ssc-cgl-2023-tier-1-part-2-history",
+      "question_file": "questions/history/ssc-cgl-2023-tier-1-part-2-history.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 PART 3 History",
+      "slug": "ssc-cgl-2023-tier-1-part-3-history",
+      "question_file": "questions/history/ssc-cgl-2023-tier-1-part-3-history.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 PART 4 History",
+      "slug": "ssc-cgl-2023-tier-1-part-4-history",
+      "question_file": "questions/history/ssc-cgl-2023-tier-1-part-4-history.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 PART 5 History",
+      "slug": "ssc-cgl-2023-tier-1-part-5-history",
+      "question_file": "questions/history/ssc-cgl-2023-tier-1-part-5-history.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 PART 6 History",
+      "slug": "ssc-cgl-2023-tier-1-part-6-history",
+      "question_file": "questions/history/ssc-cgl-2023-tier-1-part-6-history.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 History PART-1",
+      "slug": "ssc-chsl-2023-tier-1-history-part-1",
+      "question_file": "questions/history/ssc-chsl-2023-tier-1-history-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 History PART-2",
+      "slug": "ssc-chsl-2023-tier-1-history-part-2",
+      "question_file": "questions/history/ssc-chsl-2023-tier-1-history-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 History PART-3",
+      "slug": "ssc-chsl-2023-tier-1-history-part-3",
+      "question_file": "questions/history/ssc-chsl-2023-tier-1-history-part-3.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 (history - Eng) PART-1",
+      "slug": "ssc-cpo-2023-tier-1-history-eng-part-1",
+      "question_file": "questions/history/ssc-cpo-2023-tier-1-history-eng-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 (history - Eng) PART-2",
+      "slug": "ssc-cpo-2023-tier-1-history-eng-part-2",
+      "question_file": "questions/history/ssc-cpo-2023-tier-1-history-eng-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 (history - Eng) PART-3",
+      "slug": "ssc-cpo-2023-tier-1-history-eng-part-3",
+      "question_file": "questions/history/ssc-cpo-2023-tier-1-history-eng-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2023 History PART-1",
+      "slug": "ssc-mts-2023-history-part-1",
+      "question_file": "questions/history/ssc-mts-2023-history-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2023 History PART-2",
+      "slug": "ssc-mts-2023-history-part-2",
+      "question_file": "questions/history/ssc-mts-2023-history-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2023 History PART-3",
+      "slug": "ssc-mts-2023-history-part-3",
+      "question_file": "questions/history/ssc-mts-2023-history-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2023 History PART-4",
+      "slug": "ssc-mts-2023-history-part-4",
+      "question_file": "questions/history/ssc-mts-2023-history-part-4.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 1 History",
+      "slug": "ssc-cgl-2022-tier-1-part-1-history",
+      "question_file": "questions/history/ssc-cgl-2022-tier-1-part-1-history.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 2 History",
+      "slug": "ssc-cgl-2022-tier-1-part-2-history",
+      "question_file": "questions/history/ssc-cgl-2022-tier-1-part-2-history.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 3 History",
+      "slug": "ssc-cgl-2022-tier-1-part-3-history",
+      "question_file": "questions/history/ssc-cgl-2022-tier-1-part-3-history.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 4 History",
+      "slug": "ssc-cgl-2022-tier-1-part-4-history",
+      "question_file": "questions/history/ssc-cgl-2022-tier-1-part-4-history.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 5 History",
+      "slug": "ssc-cgl-2022-tier-1-part-5-history",
+      "question_file": "questions/history/ssc-cgl-2022-tier-1-part-5-history.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 6 History",
+      "slug": "ssc-cgl-2022-tier-1-part-6-history",
+      "question_file": "questions/history/ssc-cgl-2022-tier-1-part-6-history.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 7 History",
+      "slug": "ssc-cgl-2022-tier-1-part-7-history",
+      "question_file": "questions/history/ssc-cgl-2022-tier-1-part-7-history.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 2 History",
+      "slug": "ssc-cgl-2022-tier-2-history",
+      "question_file": "questions/history/ssc-cgl-2022-tier-2-history.json"
+    },
+    {
+      "title": "SSC CHSL 2022 History PART-1",
+      "slug": "ssc-chsl-2022-history-part-1",
+      "question_file": "questions/history/ssc-chsl-2022-history-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2022 History PART-2",
+      "slug": "ssc-chsl-2022-history-part-2",
+      "question_file": "questions/history/ssc-chsl-2022-history-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2022 History PART-1",
+      "slug": "ssc-cpo-2022-history-part-1",
+      "question_file": "questions/history/ssc-cpo-2022-history-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2022 History PART-2",
+      "slug": "ssc-cpo-2022-history-part-2",
+      "question_file": "questions/history/ssc-cpo-2022-history-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2022 History PART-3",
+      "slug": "ssc-cpo-2022-history-part-3",
+      "question_file": "questions/history/ssc-cpo-2022-history-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 History PART-1",
+      "slug": "ssc-gd-2022-history-part-1",
+      "question_file": "questions/history/ssc-gd-2022-history-part-1.json"
+    },
+    {
+      "title": "SSC GD 2022 History PART-2",
+      "slug": "ssc-gd-2022-history-part-2",
+      "question_file": "questions/history/ssc-gd-2022-history-part-2.json"
+    },
+    {
+      "title": "SSC GD 2022 History PART-3",
+      "slug": "ssc-gd-2022-history-part-3",
+      "question_file": "questions/history/ssc-gd-2022-history-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 History PART-4",
+      "slug": "ssc-gd-2022-history-part-4",
+      "question_file": "questions/history/ssc-gd-2022-history-part-4.json"
+    },
+    {
+      "title": "SSC GD 2022 History PART-5",
+      "slug": "ssc-gd-2022-history-part-5",
+      "question_file": "questions/history/ssc-gd-2022-history-part-5.json"
+    },
+    {
+      "title": "SSC GD 2022 History PART-6",
+      "slug": "ssc-gd-2022-history-part-6",
+      "question_file": "questions/history/ssc-gd-2022-history-part-6.json"
+    },
+    {
+      "title": "SSC MTS 2022 History PART-1",
+      "slug": "ssc-mts-2022-history-part-1",
+      "question_file": "questions/history/ssc-mts-2022-history-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2022 History PART-2",
+      "slug": "ssc-mts-2022-history-part-2",
+      "question_file": "questions/history/ssc-mts-2022-history-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2022 History PART-3",
+      "slug": "ssc-mts-2022-history-part-3",
+      "question_file": "questions/history/ssc-mts-2022-history-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2022 History PART-4",
+      "slug": "ssc-mts-2022-history-part-4",
+      "question_file": "questions/history/ssc-mts-2022-history-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2022 History PART-5",
+      "slug": "ssc-mts-2022-history-part-5",
+      "question_file": "questions/history/ssc-mts-2022-history-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2022 History PART-6",
+      "slug": "ssc-mts-2022-history-part-6",
+      "question_file": "questions/history/ssc-mts-2022-history-part-6.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 PART 1",
+      "slug": "ssc-cgl-2021-part-1",
+      "question_file": "questions/history/ssc-cgl-2021-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2021 PART 2",
+      "slug": "ssc-cgl-2021-part-2",
+      "question_file": "questions/history/ssc-cgl-2021-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2021 PART 3",
+      "slug": "ssc-cgl-2021-part-3",
+      "question_file": "questions/history/ssc-cgl-2021-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2021 History",
+      "slug": "ssc-chsl-2021-history",
+      "question_file": "questions/history/ssc-chsl-2021-history.json"
+    },
+    {
+      "title": "Sss MTS 2021 History PART-1",
+      "slug": "sss-mts-2021-history-part-1",
+      "question_file": "questions/history/sss-mts-2021-history-part-1.json"
+    },
+    {
+      "title": "Sss MTS 2021 History PART-2",
+      "slug": "sss-mts-2021-history-part-2",
+      "question_file": "questions/history/sss-mts-2021-history-part-2.json"
+    },
+    {
+      "title": "Sss MTS 2021 History PART-3",
+      "slug": "sss-mts-2021-history-part-3",
+      "question_file": "questions/history/sss-mts-2021-history-part-3.json"
+    },
+    {
+      "title": "Sss MTS 2021 History PART-4",
+      "slug": "sss-mts-2021-history-part-4",
+      "question_file": "questions/history/sss-mts-2021-history-part-4.json"
+    },
+    {
+      "title": "Sss MTS 2021 History PART-5",
+      "slug": "sss-mts-2021-history-part-5",
+      "question_file": "questions/history/sss-mts-2021-history-part-5.json"
+    },
+    {
+      "title": "Sss MTS 2021 History PART-6",
+      "slug": "sss-mts-2021-history-part-6",
+      "question_file": "questions/history/sss-mts-2021-history-part-6.json"
+    },
+    {
+      "title": "Sss MTS 2021 PART 2 History",
+      "slug": "sss-mts-2021-part-2-history",
+      "question_file": "questions/history/sss-mts-2021-part-2-history.json"
+    },
+    {
+      "title": "Sss MTS 2021 PART 4 History",
+      "slug": "sss-mts-2021-part-4-history",
+      "question_file": "questions/history/sss-mts-2021-part-4-history.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 History PART 1",
+      "slug": "ssc-cgl-2020-history-part-1",
+      "question_file": "questions/history/ssc-cgl-2020-history-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2020 History PART 2",
+      "slug": "ssc-cgl-2020-history-part-2",
+      "question_file": "questions/history/ssc-cgl-2020-history-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2020 History PART 3",
+      "slug": "ssc-cgl-2020-history-part-3",
+      "question_file": "questions/history/ssc-cgl-2020-history-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2020 History PART-1",
+      "slug": "ssc-chsl-2020-history-part-1",
+      "question_file": "questions/history/ssc-chsl-2020-history-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2020 History PART-2",
+      "slug": "ssc-chsl-2020-history-part-2",
+      "question_file": "questions/history/ssc-chsl-2020-history-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2020 History PART-3",
+      "slug": "ssc-chsl-2020-history-part-3",
+      "question_file": "questions/history/ssc-chsl-2020-history-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2020 History PART-1",
+      "slug": "ssc-mts-2020-history-part-1",
+      "question_file": "questions/history/ssc-mts-2020-history-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2020 History PART-2",
+      "slug": "ssc-mts-2020-history-part-2",
+      "question_file": "questions/history/ssc-mts-2020-history-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2020 History PART-3",
+      "slug": "ssc-mts-2020-history-part-3",
+      "question_file": "questions/history/ssc-mts-2020-history-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2020 History PART-4",
+      "slug": "ssc-mts-2020-history-part-4",
+      "question_file": "questions/history/ssc-mts-2020-history-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2020 History PART-5",
+      "slug": "ssc-mts-2020-history-part-5",
+      "question_file": "questions/history/ssc-mts-2020-history-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2020 History PART-6",
+      "slug": "ssc-mts-2020-history-part-6",
+      "question_file": "questions/history/ssc-mts-2020-history-part-6.json"
+    },
+    {
+      "title": "SSC MTS 2020 History PART-7",
+      "slug": "ssc-mts-2020-history-part-7",
+      "question_file": "questions/history/ssc-mts-2020-history-part-7.json"
+    }
+  ]
+}
+}

@@ -1,0 +1,156 @@
+{
+    "title": "Most Repeated Geography Questions Part 2",
+    "topic": "Geography",
+    "content": [
+        {
+            "question": "How is the climate of India broadly described?",
+            "answer": "Monsoonal Climate.",
+            "note": "India has a <strong>Tropical Monsoonal Climate</strong>. <br> The climate is dominated by the reversal of <strong>monsoon winds</strong> (Southwest and Northeast). <br><u>Note:</u> This pattern ensures distinct seasons: a hot summer, a rainy monsoon, and a cool winter."
+        },
+        {
+            "question": "Heavy rainfall during the months of October and November is received by which coast?",
+            "answer": "Coromandel Coast (Eastern Coast).",
+            "note": "The <strong>Coromandel Coast</strong> receives heavy rainfall in October and November. <br> This is caused by the <strong>Retreating Monsoon</strong> (Northeast Monsoon) picking up moisture from the Bay of Bengal. <br><u>Note:</u> While most of India gets rain from the SW Monsoon, this coast stays dry during that time."
+        },
+        {
+            "question": "Trees like sal, teak, neem, sheesham, and sandalwood are found in which type of forests?",
+            "answer": "Tropical Deciduous Forests.",
+            "note": "These trees are characteristic of <strong>Tropical Deciduous Forests</strong>. <br> These forests are found in regions with rainfall between 70 cm and 200 cm. <br><u>Note:</u> They shed their leaves for about 6 to 8 weeks in dry summer to conserve water."
+        },
+        {
+            "question": "The temperate grasslands of South America are called what?",
+            "answer": "Pampas.",
+            "note": "The <strong>Pampas</strong> are fertile South American lowlands. <br> They are primarily located in <strong>Argentina</strong>, Uruguay, and Brazil. <br><u>Note:</u> They are ideal for cattle ranching and wheat farming."
+        },
+        {
+            "question": "What is the groundwater stored in the spaces between layers of hard rock below the water table called?",
+            "answer": "Aquifer.",
+            "note": "<strong>Aquifers</strong> are geological formations of rocks/sand that hold water. <br> Water moves through these layers under the influence of gravity and pressure. <u>Related info:</u> When water is trapped between two impermeable layers, it forms a <em>Confined Aquifer</em>."
+        },
+        {
+            "question": "At what altitude is the geostationary orbit located?",
+            "answer": "36,000km.",
+            "note": "A <strong>Geostationary Orbit</strong> is at an altitude of approximately <strong>35,786 km</strong> (commonly rounded to 36,000 km) above the equator. <br> At this height, the satellite's orbital period matches Earth's rotation, making it appear <strong>stationary</strong> from the ground. <u>Use:</u> Essential for communication and weather satellites."
+        },
+        {
+            "question": "What is the coastal part of the oceanic water bodies that slopes seaward and is structurally part of the continental mainland called?",
+            "answer": "Continental Shelf.",
+            "note": "The <strong>Continental Shelf</strong> is the submerged edge of a continent. <br> It is relatively shallow (depth up to 200m) and is the most <strong>biologically productive</strong> part of the ocean. <br><u>Note:</u> It provides most of the world's seafood and offshore oil/gas."
+        },
+        {
+            "question": "Dhuandhar Falls and Kapildhara Falls are located on which river?",
+            "answer": "Narmada.",
+            "note": "The <strong>Narmada River</strong> creates these spectacular waterfalls. <br> <strong>Dhuandhar</strong> (Smoke cascade) is located in Bhedaghat, Jabalpur, where the river falls through marble rocks. <br><u>Note:</u> Narmada is a west-flowing river that flows through a rift valley."
+        },
+        {
+            "question": "The Himalayas belong to which type of mountain range?",
+            "answer": "Fold Mountains.",
+            "note": "The <strong>Himalayas</strong> are <strong>Fold Mountains</strong>. <br> They were formed by the collision of the <strong>Indo-Australian Plate</strong> and the <strong>Eurasian Plate</strong>, causing the sedimentary rocks to fold upward. <br><u>Note:</u> They are 'Young' because they formed recently in geological time."
+        },
+        {
+            "question": "Kolleru Lake, one of the largest freshwater lakes in India, is located in which state?",
+            "answer": "Andhra Pradesh.",
+            "note": "<strong>Kolleru Lake</strong> is one of the largest freshwater lakes in India, located in <strong>Andhra Pradesh</strong>. <br> It sits between the <strong>Krishna and Godavari deltas</strong>. <br><u>Note:</u> It is a designated <i>Ramsar site</i> and an important habitat for migratory birds like the Grey Pelican."
+        },
+        {
+            "question": "Which is the highest peak of South India or the Western Ghats?",
+            "answer": "Anamudi.",
+            "note": "<strong>Anamudi</strong> is the highest peak in the Western Ghats and all of South India, with an elevation of 2,695 meters. <br> It is located in the <strong>Eravikulam National Park</strong> in Kerala. <u>Nickname:</u> It is often called the 'Everest of South India'."
+        },
+        {
+            "question": "Which sea existed in place of the Himalayas before the tectonic shift?",
+            "answer": "Tethys Sea.",
+            "note": "The <strong>Tethys Sea</strong> was a prehistoric ocean. <br> As the Indian plate moved north and collided with Asia, the sediments of the Tethys were squeezed and uplifted to form the <strong>Himalayas</strong>. <u>Evidence:</u> Marine fossils are still found high up in the Himalayan ranges."
+        },
+        {
+            "question": "What is the rhythmic rise and fall of sea water twice a day called?",
+            "answer": "Tides.",
+            "note": "<strong>Tides</strong> are the rise and fall of sea levels caused by the combined effects of the gravitational forces exerted by the Moon and the Sun. <br> Most places experience <strong>two high tides</strong> and <strong>two low tides</strong> every day. <br><u>Note:</u> The moon has a stronger effect because it is closer to Earth."
+        },
+        {
+            "question": "All three latitude lines—the Tropic of Cancer, Equator, and the Tropic of Capricorn—pass through which continent?",
+            "answer": "Africa.",
+            "note": "<strong>Africa</strong> is the only continent through which the <strong>Tropic of Cancer, the Equator, and the Tropic of Capricorn</strong> all pass. <br> This is due to its vast latitudinal extent across the middle of the globe. <br><u>Note:</u> Most of the continent lies within the <i>Tropics</i>."
+        },
+        {
+            "question": "Which layer is the uppermost boundary of our atmosphere, extending from the top of the thermosphere up to 10,000 kilometers?",
+            "answer": "Exosphere.",
+            "note": "The <strong>Exosphere</strong> is the outermost layer of the atmosphere. <br> Here, the air is extremely thin, and atoms and molecules escape into space. <u>Boundary:</u> It starts around 700 km and blends into the <strong>vacuum of space</strong> at about 10,000 km."
+        },
+        {
+            "question": "What is the name given to the path along the Pacific Ocean where active volcanoes are found and frequent earthquakes occur?",
+            "answer": "Ring of Fire.",
+            "note": "The <strong>Ring of Fire</strong> is a major area in the basin of the <strong>Pacific Ocean</strong>. <br> It contains about 75% of the world's active volcanoes and 90% of the world's earthquakes occur here. <u>Cause:</u> It is the result of <strong>Plate Tectonics</strong> (subduction zones). "
+        },
+        {
+            "question": "India's largest inland saltwater lake, Sambhar, is located in which state?",
+            "answer": "Rajasthan.",
+            "note": "<strong>Sambhar Lake</strong> is India's largest <strong>inland</strong> saltwater lake. <br> It is located in the desert circuit of <strong>Rajasthan</strong> near Jaipur. <br><u>Note:</u> It is a major source of salt production and a key wintering area for flamingos."
+        },
+        {
+            "question": "The Shevaroy Hills are located in which state of India?",
+            "answer": "Tamil Nadu.",
+            "note": "The <strong>Shevaroy Hills</strong> are a part of the Eastern Ghats located in <strong>Tamil Nadu</strong>, near the city of Salem. <br> They are known for their temperate climate and coffee plantations. <br><u>Note:</u> The hill station of <strong>Yercaud</strong> is situated here."
+        },
+        {
+            "question": "Which type of forest is most widely spread in India and also known as 'Monsoon Forests'?",
+            "answer": "Tropical Deciduous Forests.",
+            "note": "<strong>Tropical Deciduous Forests</strong> are the most widespread in India. <br> They are called <strong>Monsoon Forests</strong> because they shed their leaves during the dry season. <br><u>Note:</u> They are divided into <i>Moist Deciduous</i> and <i>Dry Deciduous</i> based on water availability."
+        },
+        {
+            "question": "Zanskar, Hunza, Shyok, Gilgit, and Nubra are tributaries of which river?",
+            "answer": "Indus.",
+            "note": "These are all major <strong>Himalayan tributaries</strong> of the <strong>Indus River</strong>. <br> They join the Indus in the Ladakh and Gilgit-Baltistan regions. <br><u>Note:</u> The <i>Shyok</i> is known as the 'River of Death' due to its difficult terrain."
+        },
+        {
+            "question": "The area served by a canal system through water supply for irrigation and other purposes is called what?",
+            "answer": "Command Area.",
+            "note": "The <strong>Command Area</strong> is the area that can be irrigated by a canal system. <br> It is the specific region that receives water from a particular dam or reservoir project. <u>Management:</u> <i>Command Area Development (CAD)</i> programs focus on maximizing agricultural production in these areas."
+        },
+        {
+            "question": "Which drainage pattern is formed when streams flow in different directions from a central peak or dome-like structure?",
+            "answer": "Radial Pattern.",
+            "note": "A <strong>Radial Drainage Pattern</strong> looks like the spokes of a wheel. <br> It forms when rivers flow outward in all directions from a <strong>central dome</strong> or volcanic cone. <u>Example:</u> The rivers originating from the <strong>Amarkantak Mountain</strong> (like Narmada and Son) show this pattern. "
+        },
+        {
+            "question": "What shows a unidirectional flow in an ecosystem?",
+            "answer": "Energy.",
+            "note": "In an ecosystem, <strong>Energy flow is Unidirectional</strong>. <br> It flows from the Sun to <strong>Producers</strong> (plants) then to <strong>Consumers</strong> (animals). <br><u>Note:</u> Unlike nutrients, which are recycled, energy is lost as <em>heat</em> at each level and cannot go back to the source."
+        },
+        {
+            "question": "The strong, gusty, hot, and dry winds that blow in May and June in northern and northwestern India are called what?",
+            "answer": "Loo.",
+            "note": "The <strong>Loo</strong> is a strong, hot, and dry summer afternoon wind from the west which blows over the Indo-Gangetic Plain. <br> Exposure to it can cause fatal <strong>heatstroke</strong>. <u>Season:</u> It is common in May and June."
+        },
+        {
+            "question": "Which region of India is now considered an Ecological Hotspot?",
+            "answer": "Western Ghats.",
+            "note": "The <strong>Western Ghats</strong> are one of the world's eight 'hottest hotspots' of biological diversity. <br> They have a high degree of <strong>endemism</strong> (species found nowhere else). <br><u>Note:</u> They help regulate the Indian monsoon by intercepting rain-bearing winds."
+        },
+        {
+            "question": "Where are Kishtwar National Park and Dachigam Wildlife Sanctuary located?",
+            "answer": "Jammu and Kashmir.",
+            "note": "<strong>Kishtwar</strong> and <strong>Dachigam</strong> are in <strong>Jammu and Kashmir</strong>. <br> Dachigam is famous for being the last home of the <strong>Hangul</strong> (Kashmir Stag). <br><u>Note:</u> Kishtwar is known for its high-altitude landscape and snow leopards."
+        },
+        {
+            "question": "Which place/region is the natural habitat of the Indian Wild Ass?",
+            "answer": "Little Rann of Kutch.",
+            "note": "The <strong>Little Rann of Kutch</strong> in Gujarat is the only place in the world where the <strong>Indian Wild Ass (Khur)</strong> is found. <br> This saline desert provides the specific vegetation and isolation they need. <br><u>Note:</u> It is protected under the Indian Wild Ass Sanctuary."
+        },
+        {
+            "question": "Which mountain range is known as the 'Backbone of South America'?",
+            "answer": "Andes Mountain Range.",
+            "note": "The <strong>Andes</strong> is the longest continental mountain range in the world. <br> It runs along the entire western coast of <strong>South America</strong>. <u>Fact:</u> It contains <i>Aconcagua</i>, the highest peak outside of Asia."
+        },
+        {
+            "question": "Which soil is rich in lime, iron, alumina, and magnesia, and develops deep cracks during hot weather?",
+            "answer": "Black Soil.",
+            "note": "<strong>Black Soil</strong> (also known as <strong>Regur</strong>) is famous for growing <strong>Cotton</strong>. <br> It has a high <strong>clay content</strong> and excellent water-holding capacity. <br><u>Note:</u> When it dries, it develops <strong>deep cracks</strong>, which helps in self-aeration of the soil."
+        },
+        {
+            "question": "Majuli, the world's largest river island, is located in which state?",
+            "answer": "Assam.",
+            "note": "<strong>Majuli</strong> is a large <strong>river island</strong> in the <strong>Brahmaputra River</strong>, Assam. <br> It was the first island to be made a <strong>district</strong> in India. <u>Threat:</u> Due to the massive discharge and speed of the Brahmaputra, the island faces severe erosion every year."
+        }
+    ]
+}

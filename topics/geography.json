@@ -1,0 +1,467 @@
+{
+  "topic": "geography",
+  "exams": {
+  "2025":   [
+    {
+      "title": "SSC GD 2025 Geography PART-1",
+      "slug": "ssc-gd-2025-geography-part-1",
+      "question_file": "questions/geography/ssc-gd-2025-geography-part-1.json"
+    },
+    {
+      "title": "SSC GD 2025 Geography PART-2",
+      "slug": "ssc-gd-2025-geography-part-2",
+      "question_file": "questions/geography/ssc-gd-2025-geography-part-2.json"
+    },
+    {
+      "title": "SSC GD 2025 Geography PART-3",
+      "slug": "ssc-gd-2025-geography-part-3",
+      "question_file": "questions/geography/ssc-gd-2025-geography-part-3.json"
+    }
+  ],
+  "2024":   [
+    {
+      "title": "SSC CGL 2024 T-1 Geography PART-1",
+      "slug": "ssc-cgl-2024-t-1-geography-part-1",
+      "question_file": "questions/geography/ssc-cgl-2024-t-1-geography-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Geography PART-2",
+      "slug": "ssc-cgl-2024-t-1-geography-part-2",
+      "question_file": "questions/geography/ssc-cgl-2024-t-1-geography-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Geography PART-3",
+      "slug": "ssc-cgl-2024-t-1-geography-part-3",
+      "question_file": "questions/geography/ssc-cgl-2024-t-1-geography-part-3.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-2 Geography",
+      "slug": "ssc-cgl-2024-t-2-geography",
+      "question_file": "questions/geography/ssc-cgl-2024-t-2-geography.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Geography PART-1",
+      "slug": "ssc-chsl-2024-t-1-geography-part-1",
+      "question_file": "questions/geography/ssc-chsl-2024-t-1-geography-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Geography PART-2",
+      "slug": "ssc-chsl-2024-t-1-geography-part-2",
+      "question_file": "questions/geography/ssc-chsl-2024-t-1-geography-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Geography PART-3",
+      "slug": "ssc-chsl-2024-t-1-geography-part-3",
+      "question_file": "questions/geography/ssc-chsl-2024-t-1-geography-part-3.json"
+    },
+    {
+      "title": "SSC CPO 2024 Geography PART-1",
+      "slug": "ssc-cpo-2024-geography-part-1",
+      "question_file": "questions/geography/ssc-cpo-2024-geography-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2024 Geography PART-2",
+      "slug": "ssc-cpo-2024-geography-part-2",
+      "question_file": "questions/geography/ssc-cpo-2024-geography-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2024 Geography PART-3",
+      "slug": "ssc-cpo-2024-geography-part-3",
+      "question_file": "questions/geography/ssc-cpo-2024-geography-part-3.json"
+    },
+    {
+      "title": "SSC GD 2024 Geography",
+      "slug": "ssc-gd-2024-geography",
+      "question_file": "questions/geography/ssc-gd-2024-geography.json"
+    },
+    {
+      "title": "SSC MTS 2024 Geography PART-1",
+      "slug": "ssc-mts-2024-geography-part-1",
+      "question_file": "questions/geography/ssc-mts-2024-geography-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2024 Geography PART-2",
+      "slug": "ssc-mts-2024-geography-part-2",
+      "question_file": "questions/geography/ssc-mts-2024-geography-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2024 Geography PART-3",
+      "slug": "ssc-mts-2024-geography-part-3",
+      "question_file": "questions/geography/ssc-mts-2024-geography-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2024 Geography PART-4",
+      "slug": "ssc-mts-2024-geography-part-4",
+      "question_file": "questions/geography/ssc-mts-2024-geography-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2024 Geography PART-5",
+      "slug": "ssc-mts-2024-geography-part-5",
+      "question_file": "questions/geography/ssc-mts-2024-geography-part-5.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Geography PART-1",
+      "slug": "ssc-selection-post-xii-2024-geography-part-1",
+      "question_file": "questions/geography/ssc-selection-post-xii-2024-geography-part-1.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Geography PART-2",
+      "slug": "ssc-selection-post-xii-2024-geography-part-2",
+      "question_file": "questions/geography/ssc-selection-post-xii-2024-geography-part-2.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Geography PART-3",
+      "slug": "ssc-selection-post-xii-2024-geography-part-3",
+      "question_file": "questions/geography/ssc-selection-post-xii-2024-geography-part-3.json"
+    },
+    {
+      "title": "SSC STENO 2024 Geography PART-1",
+      "slug": "ssc-steno-2024-geography-part-1",
+      "question_file": "questions/geography/ssc-steno-2024-geography-part-1.json"
+    },
+    {
+      "title": "SSC STENO 2024 Geography PART-2",
+      "slug": "ssc-steno-2024-geography-part-2",
+      "question_file": "questions/geography/ssc-steno-2024-geography-part-2.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CGL 2023 Tier-1 Geography PART-1",
+      "slug": "ssc-cgl-2023-tier-1-geography-part-1",
+      "question_file": "questions/geography/ssc-cgl-2023-tier-1-geography-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Geography PART-2",
+      "slug": "ssc-cgl-2023-tier-1-geography-part-2",
+      "question_file": "questions/geography/ssc-cgl-2023-tier-1-geography-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Geography PART-3",
+      "slug": "ssc-cgl-2023-tier-1-geography-part-3",
+      "question_file": "questions/geography/ssc-cgl-2023-tier-1-geography-part-3.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Geography PART-4",
+      "slug": "ssc-cgl-2023-tier-1-geography-part-4",
+      "question_file": "questions/geography/ssc-cgl-2023-tier-1-geography-part-4.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Geography PART-1",
+      "slug": "ssc-chsl-2023-tier-1-geography-part-1",
+      "question_file": "questions/geography/ssc-chsl-2023-tier-1-geography-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Geography PART-2",
+      "slug": "ssc-chsl-2023-tier-1-geography-part-2",
+      "question_file": "questions/geography/ssc-chsl-2023-tier-1-geography-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Geography PART-3",
+      "slug": "ssc-chsl-2023-tier-1-geography-part-3",
+      "question_file": "questions/geography/ssc-chsl-2023-tier-1-geography-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Geography PART-4",
+      "slug": "ssc-chsl-2023-tier-1-geography-part-4",
+      "question_file": "questions/geography/ssc-chsl-2023-tier-1-geography-part-4.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Geography PART-5",
+      "slug": "ssc-chsl-2023-tier-1-geography-part-5",
+      "question_file": "questions/geography/ssc-chsl-2023-tier-1-geography-part-5.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Geography PART-1",
+      "slug": "ssc-cpo-2023-tier-1-geography-part-1",
+      "question_file": "questions/geography/ssc-cpo-2023-tier-1-geography-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Geography PART-2",
+      "slug": "ssc-cpo-2023-tier-1-geography-part-2",
+      "question_file": "questions/geography/ssc-cpo-2023-tier-1-geography-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Geography PART-3",
+      "slug": "ssc-cpo-2023-tier-1-geography-part-3",
+      "question_file": "questions/geography/ssc-cpo-2023-tier-1-geography-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Geography PART-1",
+      "slug": "ssc-mts-2023-tier-1-geography-part-1",
+      "question_file": "questions/geography/ssc-mts-2023-tier-1-geography-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Geography PART-2",
+      "slug": "ssc-mts-2023-tier-1-geography-part-2",
+      "question_file": "questions/geography/ssc-mts-2023-tier-1-geography-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Geography PART-3",
+      "slug": "ssc-mts-2023-tier-1-geography-part-3",
+      "question_file": "questions/geography/ssc-mts-2023-tier-1-geography-part-3.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CGL 2022 Tier 1 Geography PART-1",
+      "slug": "ssc-cgl-2022-tier-1-geography-part-1",
+      "question_file": "questions/geography/ssc-cgl-2022-tier-1-geography-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Geography PART-2",
+      "slug": "ssc-cgl-2022-tier-1-geography-part-2",
+      "question_file": "questions/geography/ssc-cgl-2022-tier-1-geography-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Geography PART-3",
+      "slug": "ssc-cgl-2022-tier-1-geography-part-3",
+      "question_file": "questions/geography/ssc-cgl-2022-tier-1-geography-part-3.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Geography PART-4",
+      "slug": "ssc-cgl-2022-tier-1-geography-part-4",
+      "question_file": "questions/geography/ssc-cgl-2022-tier-1-geography-part-4.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Geography PART-5",
+      "slug": "ssc-cgl-2022-tier-1-geography-part-5",
+      "question_file": "questions/geography/ssc-cgl-2022-tier-1-geography-part-5.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Geography PART-6",
+      "slug": "ssc-cgl-2022-tier-1-geography-part-6",
+      "question_file": "questions/geography/ssc-cgl-2022-tier-1-geography-part-6.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 2 Geography",
+      "slug": "ssc-cgl-2022-tier-2-geography",
+      "question_file": "questions/geography/ssc-cgl-2022-tier-2-geography.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Geography PART-1",
+      "slug": "ssc-chsl-2022-geography-part-1",
+      "question_file": "questions/geography/ssc-chsl-2022-geography-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Geography PART-2",
+      "slug": "ssc-chsl-2022-geography-part-2",
+      "question_file": "questions/geography/ssc-chsl-2022-geography-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Geography PART-3",
+      "slug": "ssc-chsl-2022-geography-part-3",
+      "question_file": "questions/geography/ssc-chsl-2022-geography-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Geography PART-4",
+      "slug": "ssc-chsl-2022-geography-part-4",
+      "question_file": "questions/geography/ssc-chsl-2022-geography-part-4.json"
+    },
+    {
+      "title": "SSC CPO 2022 Geography PART-1",
+      "slug": "ssc-cpo-2022-geography-part-1",
+      "question_file": "questions/geography/ssc-cpo-2022-geography-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2022 Geography PART-2",
+      "slug": "ssc-cpo-2022-geography-part-2",
+      "question_file": "questions/geography/ssc-cpo-2022-geography-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2022 Geography PART-3",
+      "slug": "ssc-cpo-2022-geography-part-3",
+      "question_file": "questions/geography/ssc-cpo-2022-geography-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 Geography PART-1",
+      "slug": "ssc-gd-2022-geography-part-1",
+      "question_file": "questions/geography/ssc-gd-2022-geography-part-1.json"
+    },
+    {
+      "title": "SSC GD 2022 Geography PART-2",
+      "slug": "ssc-gd-2022-geography-part-2",
+      "question_file": "questions/geography/ssc-gd-2022-geography-part-2.json"
+    },
+    {
+      "title": "SSC GD 2022 Geography PART-3",
+      "slug": "ssc-gd-2022-geography-part-3",
+      "question_file": "questions/geography/ssc-gd-2022-geography-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 Geography PART-4",
+      "slug": "ssc-gd-2022-geography-part-4",
+      "question_file": "questions/geography/ssc-gd-2022-geography-part-4.json"
+    },
+    {
+      "title": "SSC GD 2022 Geography PART-5",
+      "slug": "ssc-gd-2022-geography-part-5",
+      "question_file": "questions/geography/ssc-gd-2022-geography-part-5.json"
+    },
+    {
+      "title": "SSC GD 2022 Geography PART-6",
+      "slug": "ssc-gd-2022-geography-part-6",
+      "question_file": "questions/geography/ssc-gd-2022-geography-part-6.json"
+    },
+    {
+      "title": "SSC MTS 2022 Geography PART-1",
+      "slug": "ssc-mts-2022-geography-part-1",
+      "question_file": "questions/geography/ssc-mts-2022-geography-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2022 Geography PART-2",
+      "slug": "ssc-mts-2022-geography-part-2",
+      "question_file": "questions/geography/ssc-mts-2022-geography-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2022 Geography PART-3",
+      "slug": "ssc-mts-2022-geography-part-3",
+      "question_file": "questions/geography/ssc-mts-2022-geography-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2022 Geography PART-4",
+      "slug": "ssc-mts-2022-geography-part-4",
+      "question_file": "questions/geography/ssc-mts-2022-geography-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2022 Geography PART-5",
+      "slug": "ssc-mts-2022-geography-part-5",
+      "question_file": "questions/geography/ssc-mts-2022-geography-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2022 Geography PART-6",
+      "slug": "ssc-mts-2022-geography-part-6",
+      "question_file": "questions/geography/ssc-mts-2022-geography-part-6.json"
+    },
+    {
+      "title": "SSC MTS 2022 Geography PART-7",
+      "slug": "ssc-mts-2022-geography-part-7",
+      "question_file": "questions/geography/ssc-mts-2022-geography-part-7.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 Geography PART-1",
+      "slug": "ssc-cgl-2021-geography-part-1",
+      "question_file": "questions/geography/ssc-cgl-2021-geography-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2021 Geography PART-2",
+      "slug": "ssc-cgl-2021-geography-part-2",
+      "question_file": "questions/geography/ssc-cgl-2021-geography-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2021 Geography PART-3",
+      "slug": "ssc-cgl-2021-geography-part-3",
+      "question_file": "questions/geography/ssc-cgl-2021-geography-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Geography PART-1",
+      "slug": "ssc-chsl-2021-geography-part-1",
+      "question_file": "questions/geography/ssc-chsl-2021-geography-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Geography PART-2",
+      "slug": "ssc-chsl-2021-geography-part-2",
+      "question_file": "questions/geography/ssc-chsl-2021-geography-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Geography PART-3",
+      "slug": "ssc-chsl-2021-geography-part-3",
+      "question_file": "questions/geography/ssc-chsl-2021-geography-part-3.json"
+    },
+    {
+      "title": "Sss MTS 2021 Geography PART-1",
+      "slug": "sss-mts-2021-geography-part-1",
+      "question_file": "questions/geography/sss-mts-2021-geography-part-1.json"
+    },
+    {
+      "title": "Sss MTS 2021 Geography PART-2",
+      "slug": "sss-mts-2021-geography-part-2",
+      "question_file": "questions/geography/sss-mts-2021-geography-part-2.json"
+    },
+    {
+      "title": "Sss MTS 2021 Geography PART-3",
+      "slug": "sss-mts-2021-geography-part-3",
+      "question_file": "questions/geography/sss-mts-2021-geography-part-3.json"
+    },
+    {
+      "title": "Sss MTS 2021 Geography PART-4",
+      "slug": "sss-mts-2021-geography-part-4",
+      "question_file": "questions/geography/sss-mts-2021-geography-part-4.json"
+    },
+    {
+      "title": "Sss MTS 2021 Geography PART-5",
+      "slug": "sss-mts-2021-geography-part-5",
+      "question_file": "questions/geography/sss-mts-2021-geography-part-5.json"
+    },
+    {
+      "title": "Sss MTS 2021 Geography PART-6",
+      "slug": "sss-mts-2021-geography-part-6",
+      "question_file": "questions/geography/sss-mts-2021-geography-part-6.json"
+    },
+    {
+      "title": "Sss MTS 2021 Geography PART-7",
+      "slug": "sss-mts-2021-geography-part-7",
+      "question_file": "questions/geography/sss-mts-2021-geography-part-7.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 Geography PART-1",
+      "slug": "ssc-cgl-2020-geography-part-1",
+      "question_file": "questions/geography/ssc-cgl-2020-geography-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2020 Geography PART-2",
+      "slug": "ssc-cgl-2020-geography-part-2",
+      "question_file": "questions/geography/ssc-cgl-2020-geography-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Geography PART-1",
+      "slug": "ssc-chsl-2020-geography-part-1",
+      "question_file": "questions/geography/ssc-chsl-2020-geography-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Geography PART-2",
+      "slug": "ssc-chsl-2020-geography-part-2",
+      "question_file": "questions/geography/ssc-chsl-2020-geography-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Geography PART-3",
+      "slug": "ssc-chsl-2020-geography-part-3",
+      "question_file": "questions/geography/ssc-chsl-2020-geography-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Geography PART-4",
+      "slug": "ssc-chsl-2020-geography-part-4",
+      "question_file": "questions/geography/ssc-chsl-2020-geography-part-4.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Geography PART-5",
+      "slug": "ssc-chsl-2020-geography-part-5",
+      "question_file": "questions/geography/ssc-chsl-2020-geography-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2020 Geography PART-1",
+      "slug": "ssc-mts-2020-geography-part-1",
+      "question_file": "questions/geography/ssc-mts-2020-geography-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2020 Geography PART-2",
+      "slug": "ssc-mts-2020-geography-part-2",
+      "question_file": "questions/geography/ssc-mts-2020-geography-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2020 Geography PART-3",
+      "slug": "ssc-mts-2020-geography-part-3",
+      "question_file": "questions/geography/ssc-mts-2020-geography-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2020 Geography PART-4",
+      "slug": "ssc-mts-2020-geography-part-4",
+      "question_file": "questions/geography/ssc-mts-2020-geography-part-4.json"
+    }
+  ]
+}
+}

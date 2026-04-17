@@ -1,0 +1,422 @@
+{
+  "topic": "economics",
+  "exams": {
+  "2025":   [
+    {
+      "title": "SSC GD 2025 Economics PART-1",
+      "slug": "ssc-gd-2025-economics-part-1",
+      "question_file": "questions/economics/ssc-gd-2025-economics-part-1.json"
+    },
+    {
+      "title": "SSC GD 2025 Economics PART-2",
+      "slug": "ssc-gd-2025-economics-part-2",
+      "question_file": "questions/economics/ssc-gd-2025-economics-part-2.json"
+    },
+    {
+      "title": "SSC GD 2025 Economics PART-3",
+      "slug": "ssc-gd-2025-economics-part-3",
+      "question_file": "questions/economics/ssc-gd-2025-economics-part-3.json"
+    }
+  ],
+  "2024":   [
+    {
+      "title": "SSC CGL 2024 T-1 Economics PART-1",
+      "slug": "ssc-cgl-2024-t-1-economics-part-1",
+      "question_file": "questions/economics/ssc-cgl-2024-t-1-economics-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-1 Economics PART-2",
+      "slug": "ssc-cgl-2024-t-1-economics-part-2",
+      "question_file": "questions/economics/ssc-cgl-2024-t-1-economics-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-2 Economics",
+      "slug": "ssc-cgl-2024-t-2-economics",
+      "question_file": "questions/economics/ssc-cgl-2024-t-2-economics.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Economics PART-1",
+      "slug": "ssc-chsl-2024-t-1-economics-part-1",
+      "question_file": "questions/economics/ssc-chsl-2024-t-1-economics-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Economics PART 2",
+      "slug": "ssc-chsl-2024-t-1-economics-part-2",
+      "question_file": "questions/economics/ssc-chsl-2024-t-1-economics-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2024 Economics PART-1",
+      "slug": "ssc-cpo-2024-economics-part-1",
+      "question_file": "questions/economics/ssc-cpo-2024-economics-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2024 Economics PART-2",
+      "slug": "ssc-cpo-2024-economics-part-2",
+      "question_file": "questions/economics/ssc-cpo-2024-economics-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2024 Economics PART-3",
+      "slug": "ssc-cpo-2024-economics-part-3",
+      "question_file": "questions/economics/ssc-cpo-2024-economics-part-3.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-1",
+      "slug": "ssc-gd-2024-economics-part-1",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-1.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-10",
+      "slug": "ssc-gd-2024-economics-part-10",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-10.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-2",
+      "slug": "ssc-gd-2024-economics-part-2",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-2.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-3",
+      "slug": "ssc-gd-2024-economics-part-3",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-3.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-4",
+      "slug": "ssc-gd-2024-economics-part-4",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-4.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-5",
+      "slug": "ssc-gd-2024-economics-part-5",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-5.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-6",
+      "slug": "ssc-gd-2024-economics-part-6",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-6.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-7",
+      "slug": "ssc-gd-2024-economics-part-7",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-7.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-8",
+      "slug": "ssc-gd-2024-economics-part-8",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-8.json"
+    },
+    {
+      "title": "SSC GD 2024 Economics PART-9",
+      "slug": "ssc-gd-2024-economics-part-9",
+      "question_file": "questions/economics/ssc-gd-2024-economics-part-9.json"
+    },
+    {
+      "title": "SSC MTS 2024 Economics PART-1",
+      "slug": "ssc-mts-2024-economics-part-1",
+      "question_file": "questions/economics/ssc-mts-2024-economics-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2024 Economics PART-2",
+      "slug": "ssc-mts-2024-economics-part-2",
+      "question_file": "questions/economics/ssc-mts-2024-economics-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2024 Economics PART-3",
+      "slug": "ssc-mts-2024-economics-part-3",
+      "question_file": "questions/economics/ssc-mts-2024-economics-part-3.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Economics",
+      "slug": "ssc-selection-post-xii-2024-economics",
+      "question_file": "questions/economics/ssc-selection-post-xii-2024-economics.json"
+    },
+    {
+      "title": "SSC STENO 2024 Economics PART-1",
+      "slug": "ssc-steno-2024-economics-part-1",
+      "question_file": "questions/economics/ssc-steno-2024-economics-part-1.json"
+    },
+    {
+      "title": "SSC STENO 2024 Economics PART-2",
+      "slug": "ssc-steno-2024-economics-part-2",
+      "question_file": "questions/economics/ssc-steno-2024-economics-part-2.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CGL 2023 Tier-1 Economics PART-1",
+      "slug": "ssc-cgl-2023-tier-1-economics-part-1",
+      "question_file": "questions/economics/ssc-cgl-2023-tier-1-economics-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Economics PART-2",
+      "slug": "ssc-cgl-2023-tier-1-economics-part-2",
+      "question_file": "questions/economics/ssc-cgl-2023-tier-1-economics-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 Economics PART-3",
+      "slug": "ssc-cgl-2023-tier-1-economics-part-3",
+      "question_file": "questions/economics/ssc-cgl-2023-tier-1-economics-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Economics PART-1",
+      "slug": "ssc-chsl-2023-tier-1-economics-part-1",
+      "question_file": "questions/economics/ssc-chsl-2023-tier-1-economics-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Economics PART-2",
+      "slug": "ssc-chsl-2023-tier-1-economics-part-2",
+      "question_file": "questions/economics/ssc-chsl-2023-tier-1-economics-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Economics PART-3",
+      "slug": "ssc-chsl-2023-tier-1-economics-part-3",
+      "question_file": "questions/economics/ssc-chsl-2023-tier-1-economics-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Economics PART-4",
+      "slug": "ssc-chsl-2023-tier-1-economics-part-4",
+      "question_file": "questions/economics/ssc-chsl-2023-tier-1-economics-part-4.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Economics PART-5",
+      "slug": "ssc-chsl-2023-tier-1-economics-part-5",
+      "question_file": "questions/economics/ssc-chsl-2023-tier-1-economics-part-5.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Economics PART-1",
+      "slug": "ssc-cpo-2023-tier-1-economics-part-1",
+      "question_file": "questions/economics/ssc-cpo-2023-tier-1-economics-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Economics PART-2",
+      "slug": "ssc-cpo-2023-tier-1-economics-part-2",
+      "question_file": "questions/economics/ssc-cpo-2023-tier-1-economics-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Economics PART-3",
+      "slug": "ssc-cpo-2023-tier-1-economics-part-3",
+      "question_file": "questions/economics/ssc-cpo-2023-tier-1-economics-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Economics PART-1",
+      "slug": "ssc-mts-2023-tier-1-economics-part-1",
+      "question_file": "questions/economics/ssc-mts-2023-tier-1-economics-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Economics PART-2",
+      "slug": "ssc-mts-2023-tier-1-economics-part-2",
+      "question_file": "questions/economics/ssc-mts-2023-tier-1-economics-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Economics PART-3",
+      "slug": "ssc-mts-2023-tier-1-economics-part-3",
+      "question_file": "questions/economics/ssc-mts-2023-tier-1-economics-part-3.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CGL 2022 Tier 1 Economics PART-1",
+      "slug": "ssc-cgl-2022-tier-1-economics-part-1",
+      "question_file": "questions/economics/ssc-cgl-2022-tier-1-economics-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Economics PART-2",
+      "slug": "ssc-cgl-2022-tier-1-economics-part-2",
+      "question_file": "questions/economics/ssc-cgl-2022-tier-1-economics-part-2.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 Economics PART-3",
+      "slug": "ssc-cgl-2022-tier-1-economics-part-3",
+      "question_file": "questions/economics/ssc-cgl-2022-tier-1-economics-part-3.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 2 Economics",
+      "slug": "ssc-cgl-2022-tier-2-economics",
+      "question_file": "questions/economics/ssc-cgl-2022-tier-2-economics.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Economics PART-1",
+      "slug": "ssc-chsl-2022-economics-part-1",
+      "question_file": "questions/economics/ssc-chsl-2022-economics-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Economics PART-2",
+      "slug": "ssc-chsl-2022-economics-part-2",
+      "question_file": "questions/economics/ssc-chsl-2022-economics-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Economics PART-3",
+      "slug": "ssc-chsl-2022-economics-part-3",
+      "question_file": "questions/economics/ssc-chsl-2022-economics-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2022 Economics PART-4",
+      "slug": "ssc-chsl-2022-economics-part-4",
+      "question_file": "questions/economics/ssc-chsl-2022-economics-part-4.json"
+    },
+    {
+      "title": "SSC CPO 2022 Economics",
+      "slug": "ssc-cpo-2022-economics",
+      "question_file": "questions/economics/ssc-cpo-2022-economics.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-1",
+      "slug": "ssc-gd-2022-economics-part-1",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-1.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-10",
+      "slug": "ssc-gd-2022-economics-part-10",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-10.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-11",
+      "slug": "ssc-gd-2022-economics-part-11",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-11.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-12",
+      "slug": "ssc-gd-2022-economics-part-12",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-12.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-2",
+      "slug": "ssc-gd-2022-economics-part-2",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-2.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-3",
+      "slug": "ssc-gd-2022-economics-part-3",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-4",
+      "slug": "ssc-gd-2022-economics-part-4",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-4.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-5",
+      "slug": "ssc-gd-2022-economics-part-5",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-5.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-6",
+      "slug": "ssc-gd-2022-economics-part-6",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-6.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-7",
+      "slug": "ssc-gd-2022-economics-part-7",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-7.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-8",
+      "slug": "ssc-gd-2022-economics-part-8",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-8.json"
+    },
+    {
+      "title": "SSC GD 2022 Economics PART-9",
+      "slug": "ssc-gd-2022-economics-part-9",
+      "question_file": "questions/economics/ssc-gd-2022-economics-part-9.json"
+    },
+    {
+      "title": "SSC MTS 2022 Economics PART-1",
+      "slug": "ssc-mts-2022-economics-part-1",
+      "question_file": "questions/economics/ssc-mts-2022-economics-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2022 Economics PART-2",
+      "slug": "ssc-mts-2022-economics-part-2",
+      "question_file": "questions/economics/ssc-mts-2022-economics-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2022 Economics PART-3",
+      "slug": "ssc-mts-2022-economics-part-3",
+      "question_file": "questions/economics/ssc-mts-2022-economics-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2022 Economics PART-4",
+      "slug": "ssc-mts-2022-economics-part-4",
+      "question_file": "questions/economics/ssc-mts-2022-economics-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2022 Economics PART-5",
+      "slug": "ssc-mts-2022-economics-part-5",
+      "question_file": "questions/economics/ssc-mts-2022-economics-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2022 Economics PART-6",
+      "slug": "ssc-mts-2022-economics-part-6",
+      "question_file": "questions/economics/ssc-mts-2022-economics-part-6.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 Economics PART-1",
+      "slug": "ssc-cgl-2021-economics-part-1",
+      "question_file": "questions/economics/ssc-cgl-2021-economics-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2021 Economics PART-2",
+      "slug": "ssc-cgl-2021-economics-part-2",
+      "question_file": "questions/economics/ssc-cgl-2021-economics-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Economics PART-1",
+      "slug": "ssc-chsl-2021-economics-part-1",
+      "question_file": "questions/economics/ssc-chsl-2021-economics-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Economics PART-2",
+      "slug": "ssc-chsl-2021-economics-part-2",
+      "question_file": "questions/economics/ssc-chsl-2021-economics-part-2.json"
+    },
+    {
+      "title": "Sss MTS 2021 Economics PART-1",
+      "slug": "sss-mts-2021-economics-part-1",
+      "question_file": "questions/economics/sss-mts-2021-economics-part-1.json"
+    },
+    {
+      "title": "Sss MTS 2021 Economics PART-2",
+      "slug": "sss-mts-2021-economics-part-2",
+      "question_file": "questions/economics/sss-mts-2021-economics-part-2.json"
+    },
+    {
+      "title": "Sss MTS 2021 Economics PART-3",
+      "slug": "sss-mts-2021-economics-part-3",
+      "question_file": "questions/economics/sss-mts-2021-economics-part-3.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 Economics",
+      "slug": "ssc-cgl-2020-economics",
+      "question_file": "questions/economics/ssc-cgl-2020-economics.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Economics PART-1",
+      "slug": "ssc-chsl-2020-economics-part-1",
+      "question_file": "questions/economics/ssc-chsl-2020-economics-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Economics PART-2",
+      "slug": "ssc-chsl-2020-economics-part-2",
+      "question_file": "questions/economics/ssc-chsl-2020-economics-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2020 Economics PART-1",
+      "slug": "ssc-mts-2020-economics-part-1",
+      "question_file": "questions/economics/ssc-mts-2020-economics-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2020 Economics PART-2",
+      "slug": "ssc-mts-2020-economics-part-2",
+      "question_file": "questions/economics/ssc-mts-2020-economics-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2020 Economics PART-3",
+      "slug": "ssc-mts-2020-economics-part-3",
+      "question_file": "questions/economics/ssc-mts-2020-economics-part-3.json"
+    }
+  ]
+}
+}

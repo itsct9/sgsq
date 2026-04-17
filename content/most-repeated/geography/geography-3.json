@@ -1,0 +1,171 @@
+{
+    "title": "Most Repeated Geography Questions Part 3",
+    "topic": "Geography",
+    "content": [
+        {
+            "question": "Methane contributes to global warming, so it is called what?",
+            "answer": "Greenhouse Gas.",
+            "note": "<strong>Methane ($CH_4$)</strong> is a potent <strong>Greenhouse Gas</strong>. <br> It is much more effective at trapping heat than $CO_2$ over a short time frame. <u>Sources:</u> Common sources include wetlands, livestock (enteric fermentation), and rice paddies."
+        },
+        {
+            "question": "Which wind is also known as the 'Snow Eater'?",
+            "answer": "Chinook.",
+            "note": "The <strong>Chinook</strong> is a warm, dry wind that blows down the eastern slopes of the <strong>Rocky Mountains</strong> in North America. <br> It can raise temperatures rapidly in winter, melting snow in hours, hence the name <strong>'Snow Eater'</strong>."
+        },
+        {
+            "question": "On which date is the Summer Solstice observed in the Northern Hemisphere?",
+            "answer": "21st June.",
+            "note": "The <strong>Summer Solstice</strong> occurs on <strong>June 21</strong> in the Northern Hemisphere. <br> On this day, the North Pole is tilted closest to the Sun, and the Sun is directly over the <strong>Tropic of Cancer</strong>. <u>Result:</u> It is the <strong>longest day</strong> of the year in the north."
+        },
+        {
+            "question": "What causes the cycle of day and night on Earth?",
+            "answer": "Earth's rotation.",
+            "note": "The <strong>Rotation of the Earth</strong> on its axis once every 24 hours causes <strong>Day and Night</strong>. <br> One half of the Earth faces the Sun (day) while the other faces away (night). <br><u>Note:</u> Earth rotates from <strong>West to East</strong>, which is why the Sun appears to rise in the East."
+        },
+        {
+            "question": "Which is the largest planet in the solar system?",
+            "answer": "Jupiter.",
+            "note": "<strong>Jupiter</strong> is the largest planet in our solar system. <br> It is so big that all other planets could fit inside it twice. <br><u>Note:</u> It is a <strong>Gas Giant</strong> and is famous for its <i>Great Red Spot</i>, a giant storm."
+        },
+        {
+            "question": "What is the scientific study of rocks, concerning their composition, texture, formation, distribution, and the physical-chemical conditions of their origin, called?",
+            "answer": "Petrology.",
+            "note": "<strong>Petrology</strong> is the branch of geology that studies rocks. <br> It examines how rocks are formed (igneous, sedimentary, metamorphic). <u>Etymology:</u> The word comes from the Greek <i>'petra'</i> meaning rock and <i>'logos'</i> meaning study."
+        },
+        {
+            "question": "The imaginary lines that connect places of equal elevation at regular intervals are called what?",
+            "answer": "Contour Lines.",
+            "note": "<strong>Contour Lines</strong> are used on maps to show terrain. <br> All points on a single contour line are at the <strong>same height</strong> above sea level. <u>Rule:</u> When lines are close together, it indicates a <strong>steep slope</strong>; when far apart, it's a gentle slope."
+        },
+        {
+            "question": "A special type of well in which water rises to the surface automatically through a hole due to pressure is called what?",
+            "answer": "Artesian Well.",
+            "note": "An <strong>Artesian Well</strong> is a well that doesn't require a pump. <br> The water is under enough <strong>natural pressure</strong> to rise to the surface. <u>Condition:</u> It occurs when an aquifer is trapped between two impermeable layers of rock. "
+        },
+        {
+            "question": "What causes ocean tides?",
+            "answer": "The gravitational pull of the Sun and the Moon on the Earth.",
+            "note": "<strong>Tides</strong> are caused by the <strong>Gravitational Pull</strong> of the Moon and, to a lesser extent, the Sun. <br> The Moon's pull creates a 'bulge' in the ocean water. <u>Types:</u> <strong>Spring Tides</strong> (highest) occur during full/new moon, and <strong>Neap Tides</strong> (lowest) occur during the moon's quarter phases."
+        },
+        {
+            "question": "The Deccan Plateau is a triangular landmass in India located south of which river?",
+            "answer": "Narmada.",
+            "note": "The <strong>Deccan Plateau</strong> is the large plateau in southern India. <br> It lies south of the <strong>Narmada River</strong> and is bounded by the Satpura range to the north and the Ghats to the east and west. <br><u>Note:</u> It is mostly made of volcanic <strong>basalt</strong>."
+        },
+        {
+            "question": "Which water body separates the Andaman Islands in the north from the Nicobar Islands in the south?",
+            "answer": "Ten Degree Channel.",
+            "note": "The <strong>Ten Degree Channel</strong> is a channel that lies on the 10-degree latitude line. <br> it separates the <strong>Andaman Islands</strong> from the <strong>Nicobar Islands</strong> in the Bay of Bengal. <br><u>Note:</u> It is about 150 km wide."
+        },
+        {
+            "question": "The Sunda Strait is located between which two places?",
+            "answer": "Java and Sumatra.",
+            "note": "The <strong>Sunda Strait</strong> is the strait between the Indonesian islands of <strong>Java and Sumatra</strong>. <br> It connects the Java Sea to the Indian Ocean. <br><u>Note:</u> The famous volcano <strong>Krakatoa</strong> is located in this strait."
+        },
+        {
+            "question": "How much time does the Earth take to rotate 1°?",
+            "answer": "4 minutes.",
+            "note": "The Earth takes <strong>4 minutes</strong> to rotate 1°. <br> Earth rotates 360° in 24 hours ($24 \\times 60 = 1440$ minutes). So, $1440 / 360 = 4$ minutes. <u>Application:</u> This is why there is a 2-hour time difference between Gujarat and Arunachal Pradesh (roughly 30° difference)."
+        },
+        {
+            "question": "What are the reference lines called that connect the North Pole to the South Pole?",
+            "answer": "Longitudes.",
+            "note": "<strong>Longitudes</strong> (or Meridians) are imaginary vertical lines. <br> They measure how far East or West a place is from the <strong>Prime Meridian</strong>. <br><u>Note:</u> Unlike latitudes, longitudes are not parallel; they all meet at the poles."
+        },
+        {
+            "question": "A canal watercourse where water is forcefully lifted and made to flow against the natural slope of the land is called what?",
+            "answer": "Lift Channel or Lift Irrigation System.",
+            "note": "In a <strong>Lift Irrigation System</strong>, water is not transported by natural flow. <br> It is <strong>mechanically lifted</strong> using pumps to reach higher elevations. <u>Use:</u> This is common in plateau regions where rivers flow much lower than the agricultural fields."
+        },
+        {
+            "question": "Over time, a meander loop gets cut off from the river and forms a lake, which is called what?",
+            "answer": "Ox-Bow Lake.",
+            "note": "An <strong>Ox-Bow Lake</strong> starts as a curve, or meander, in a river. <br> Erosion and deposition eventually cut the neck of the meander, leaving a <strong>U-shaped</strong> body of water. <u>Location:</u> These are common in the mature stage of rivers in flat plains. "
+        },
+        {
+            "question": "Which list by the IUCN provides detailed information on endangered species of flora and fauna?",
+            "answer": "Red List (Red Data Book).",
+            "note": "The <strong>Red List</strong> is published by the <strong>International Union for Conservation of Nature (IUCN)</strong>. <br> It is the world's most comprehensive inventory of the global <strong>conservation status</strong> of biological species. <u>Categories:</u> Species are categorized from 'Least Concern' to 'Extinct'."
+        },
+        {
+            "question": "The temperate grasslands of South Africa are called what?",
+            "answer": "Velds.",
+            "note": "The temperate grasslands of <strong>South Africa</strong> are known as the <strong>Velds</strong>. <br> They are divided into <i>Highveld</i> and <i>Lowveld</i> based on altitude. <br><u>Note:</u> Maize (corn) is the most important crop grown here."
+        },
+        {
+            "question": "The large bends in a river are called what?",
+            "answer": "Meanders.",
+            "note": "<strong>Meanders</strong> are loop-like bends in a river. <br> They form because of <strong>erosion</strong> on the outer bank and <strong>deposition</strong> on the inner bank of a river. <br><u>Note:</u> Over time, meanders migrate across the floodplain."
+        },
+        {
+            "question": "Which is the first state in India to receive rain from the Southwest Monsoon?",
+            "answer": "Kerala.",
+            "note": "<strong>Kerala</strong> is the first state to be hit by the <strong>Southwest Monsoon</strong>. <br> The monsoon usually arrives at the Kerala coast around <strong>June 1st</strong>. <br><u>Note:</u> This marks the beginning of the rainy season for most of India."
+        },
+        {
+            "question": "An area reserved for wildlife where cultivation, grazing, forestry, and human interference are prohibited is called what?",
+            "answer": "National Park.",
+            "note": "A <strong>National Park</strong> is an area strictly reserved for the betterment of wildlife & biodiversity. <br> Unlike Wildlife Sanctuaries, <strong>human activities</strong> like grazing and private ownership are strictly <strong>prohibited</strong> here. <u>Authority:</u> They are established under the <i>Wild Life (Protection) Act, 1972</i>."
+        },
+        {
+            "question": "When all ecosystems in a geographic area come together to form one large unit (the largest ecosystem on Earth), it is called what?",
+            "answer": "Biome.",
+            "note": "A <strong>Biome</strong> is a large naturally occurring community of flora and fauna occupying a major habitat. <br> It is the <strong>largest level</strong> of ecological organization. <u>Examples:</u> Tundra, Taiga, Desert, and Tropical Rainforest."
+        },
+        {
+            "question": "In the first phase of the action plan for the introduction of the Cheetah in India, in September 2022, which animals were released in Kuno National Park, Madhya Pradesh?",
+            "answer": "Cheetahs.",
+            "note": "<strong>Cheetahs</strong> were reintroduced to <strong>Kuno National Park</strong> from <strong>Namibia</strong>. <br> The cheetah was declared <strong>extinct</strong> in India in 1952. <br><u>Note:</u> This is the world's first intercontinental translocation project for a large carnivore."
+        },
+        {
+            "question": "Which concept was proposed by Hutchinson in 1957 to describe the relationship of an individual or a population with all aspects of its environment?",
+            "answer": "Ecological Niche.",
+            "note": "The <strong>Ecological Niche</strong> is the specific role or position of a species within an ecosystem. <br> It describes how an organism responds to the distribution of resources and competitors. <u>Analogy:</u> If the habitat is the organism's 'address', the niche is its 'profession'."
+        },
+        {
+            "question": "El Nino is a phenomenon in which, every 2 to 5 years, a warm ocean current replaces the cold current along the coast of which country?",
+            "answer": "Peru.",
+            "note": "<strong>El Niño</strong> involves the warming of ocean surface temperatures in the central and eastern Pacific. <br> It weakens the trade winds and affects global weather, often causing <strong>droughts in India</strong> and heavy rain in <strong>Peru</strong>. <u>Frequency:</u> It occurs irregularly every 2 to 7 years."
+        },
+        {
+            "question": "What was the main objective of the Montreal Protocol?",
+            "answer": "Protection of the Ozone Layer.",
+            "note": "The <strong>Montreal Protocol (1987)</strong> was designed to phase out the production of substances responsible for <strong>Ozone depletion</strong> (like CFCs). <br> It is considered one of the most successful environmental treaties. <br><u>Note:</u> The ozone layer protects Earth from harmful <strong>UV radiation</strong>."
+        },
+        {
+            "question": "The first meeting of the Kyoto Protocol, an international treaty to reduce greenhouse gas emissions, was held in which country?",
+            "answer": "Japan.",
+            "note": "The <strong>Kyoto Protocol</strong> was adopted in <strong>Kyoto, Japan</strong> in 1997. <br> It was an international agreement to <strong>reduce Greenhouse Gas emissions</strong> to fight global warming. <br><u>Note:</u> It operated on the principle of 'common but differentiated responsibilities'."
+        },
+        {
+            "question": "In which year did the Kyoto Protocol come into effect?",
+            "answer": "2005.",
+            "note": "The <strong>Kyoto Protocol</strong> legally came into effect in <strong>2005</strong>. <br> It required ratification by enough countries to account for 55% of global emissions. <br><u>Note:</u> It has since been largely succeeded by the <strong>Paris Agreement</strong>."
+        },
+        {
+            "question": "The Moon takes approximately how many days to complete one orbit around the Earth?",
+            "answer": "27 days.",
+            "note": "The <strong>Moon</strong> orbits the Earth once every <strong>27.3 days</strong>. <br> This is its <i>Sideral period</i>. <br><u>Note:</u> Because the Earth is also moving, it takes slightly longer (29.5 days) to see the same phase again (New Moon to New Moon)."
+        },
+        {
+            "question": "What type of rocks were once igneous or sedimentary but have been transformed by intense heat and/or pressure within the Earth's crust?",
+            "answer": "Quartzite.",
+            "note": "<strong>Quartzite</strong> is a non-foliated <strong>Metamorphic Rock</strong>. <br> It forms when <strong>Quartz Sandstone</strong> is subjected to high heat and pressure. <u>Characteristics:</u> It is extremely hard and resistant to chemical weathering."
+        },
+        {
+            "question": "Which planet has the highest number of moons/satellites?",
+            "answer": "Saturn (146 moons).",
+            "note": "<strong>Saturn</strong> has the highest number of discovered moons, totaling <strong>146</strong>. <br> It recently overtook Jupiter in the moon count. <br><u>Note:</u> Its largest moon, <strong>Titan</strong>, is the only moon in the solar system with a thick atmosphere."
+        },
+        {
+            "question": "The canal channel where water flows due to the force of gravity is called what?",
+            "answer": "Gravity Canal.",
+            "note": "In a <strong>Gravity Canal</strong>, the water flows naturally from a higher elevation to a lower one. <br> No pumping is required because the alignment follows the <strong>natural slope</strong> of the land. <br><u>Note:</u> This is the most cost-effective type of irrigation canal."
+        },
+        {
+            "question": "Mawsynram receives the highest average annual rainfall in the world because the monsoon winds from the Bay of Bengal collide with which hills?",
+            "answer": "Khasi.",
+            "note": "<strong>Mawsynram</strong> (in Meghalaya) is the wettest place on Earth. <br> The <strong>Khasi Hills</strong> act as a funnel, forcing the moisture-laden winds from the Bay of Bengal to rise and cool rapidly, resulting in extreme rain. <u>Nearby:</u> <i>Cherrapunji</i> holds many historical rainfall records as well."
+        }
+    ]
+}

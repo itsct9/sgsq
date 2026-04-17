@@ -1,0 +1,74 @@
+{
+  "topics": [
+    {
+      "name": "Most Repeated",
+      "slug": "most-repeated",
+      "exam_api": "content/most-repeated.json"
+    },
+    {
+      "name": "Practice Questions",
+      "slug": "practice-questions",
+      "exam_api": "topics/practice-questions.json"
+    },
+    {
+      "name": "Arts And Culture",
+      "slug": "arts-and-culture",
+      "exam_api": "topics/arts-and-culture.json"
+    },
+    {
+      "name": "Biology",
+      "slug": "biology",
+      "exam_api": "topics/biology.json"
+    },
+    {
+      "name": "Books And Authors",
+      "slug": "books-and-authors",
+      "exam_api": "topics/books-and-authors.json"
+    },
+    {
+      "name": "Chemistry",
+      "slug": "chemistry",
+      "exam_api": "topics/chemistry.json"
+    },
+    {
+      "name": "Computer",
+      "slug": "computer",
+      "exam_api": "topics/computer.json"
+    },
+    {
+      "name": "Economics",
+      "slug": "economics",
+      "exam_api": "topics/economics.json"
+    },
+    {
+      "name": "Geography",
+      "slug": "geography",
+      "exam_api": "topics/geography.json"
+    },
+    {
+      "name": "History",
+      "slug": "history",
+      "exam_api": "topics/history.json"
+    },
+    {
+      "name": "Physics",
+      "slug": "physics",
+      "exam_api": "topics/physics.json"
+    },
+    {
+      "name": "Polity",
+      "slug": "polity",
+      "exam_api": "topics/polity.json"
+    },
+    {
+      "name": "Sports",
+      "slug": "sports",
+      "exam_api": "topics/sports.json"
+    },
+    {
+      "name": "Static",
+      "slug": "static",
+      "exam_api": "topics/static.json"
+    }
+  ]
+}

@@ -1,0 +1,362 @@
+{
+  "topic": "polity",
+  "exams": {
+  "2025":   [
+    {
+      "title": "SSC GD 2025 Polity PART 1",
+      "slug": "ssc-gd-2025-polity-part-1",
+      "question_file": "questions/polity/ssc-gd-2025-polity-part-1.json"
+    },
+    {
+      "title": "SSC GD 2025 Polity PART 2",
+      "slug": "ssc-gd-2025-polity-part-2",
+      "question_file": "questions/polity/ssc-gd-2025-polity-part-2.json"
+    },
+    {
+      "title": "SSC GD 2025 Polity PART 3",
+      "slug": "ssc-gd-2025-polity-part-3",
+      "question_file": "questions/polity/ssc-gd-2025-polity-part-3.json"
+    },
+    {
+      "title": "SSC GD 2025 Polity PART 4",
+      "slug": "ssc-gd-2025-polity-part-4",
+      "question_file": "questions/polity/ssc-gd-2025-polity-part-4.json"
+    }
+  ],
+  "2024":   [
+    {
+      "title": "SSC CGL 2024 T-1 Polity",
+      "slug": "ssc-cgl-2024-t-1-polity",
+      "question_file": "questions/polity/ssc-cgl-2024-t-1-polity.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-2 Polity",
+      "slug": "ssc-cgl-2024-t-2-polity",
+      "question_file": "questions/polity/ssc-cgl-2024-t-2-polity.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Polity PART 1",
+      "slug": "ssc-chsl-2024-t-1-polity-part-1",
+      "question_file": "questions/polity/ssc-chsl-2024-t-1-polity-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Polity PART 2",
+      "slug": "ssc-chsl-2024-t-1-polity-part-2",
+      "question_file": "questions/polity/ssc-chsl-2024-t-1-polity-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Polity PART 3",
+      "slug": "ssc-chsl-2024-t-1-polity-part-3",
+      "question_file": "questions/polity/ssc-chsl-2024-t-1-polity-part-3.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Polity PART 4",
+      "slug": "ssc-chsl-2024-t-1-polity-part-4",
+      "question_file": "questions/polity/ssc-chsl-2024-t-1-polity-part-4.json"
+    },
+    {
+      "title": "SSC CPO 2024 Polity PART 1",
+      "slug": "ssc-cpo-2024-polity-part-1",
+      "question_file": "questions/polity/ssc-cpo-2024-polity-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2024 Polity PART 2",
+      "slug": "ssc-cpo-2024-polity-part-2",
+      "question_file": "questions/polity/ssc-cpo-2024-polity-part-2.json"
+    },
+    {
+      "title": "SSC GD 2024 Polity PART 1",
+      "slug": "ssc-gd-2024-polity-part-1",
+      "question_file": "questions/polity/ssc-gd-2024-polity-part-1.json"
+    },
+    {
+      "title": "SSC GD 2024 Polity PART 2",
+      "slug": "ssc-gd-2024-polity-part-2",
+      "question_file": "questions/polity/ssc-gd-2024-polity-part-2.json"
+    },
+    {
+      "title": "SSC GD 2024 Polity PART 3",
+      "slug": "ssc-gd-2024-polity-part-3",
+      "question_file": "questions/polity/ssc-gd-2024-polity-part-3.json"
+    },
+    {
+      "title": "SSC GD 2024 Polity PART 4",
+      "slug": "ssc-gd-2024-polity-part-4",
+      "question_file": "questions/polity/ssc-gd-2024-polity-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2024 Polity PART 1",
+      "slug": "ssc-mts-2024-polity-part-1",
+      "question_file": "questions/polity/ssc-mts-2024-polity-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2024 Polity PART 2",
+      "slug": "ssc-mts-2024-polity-part-2",
+      "question_file": "questions/polity/ssc-mts-2024-polity-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2024 Polity PART 3",
+      "slug": "ssc-mts-2024-polity-part-3",
+      "question_file": "questions/polity/ssc-mts-2024-polity-part-3.json"
+    },
+    {
+      "title": "SSC MTS 2024 Polity PART 4",
+      "slug": "ssc-mts-2024-polity-part-4",
+      "question_file": "questions/polity/ssc-mts-2024-polity-part-4.json"
+    },
+    {
+      "title": "SSC MTS 2024 Polity PART 5",
+      "slug": "ssc-mts-2024-polity-part-5",
+      "question_file": "questions/polity/ssc-mts-2024-polity-part-5.json"
+    },
+    {
+      "title": "SSC MTS 2024 Polity PART 6",
+      "slug": "ssc-mts-2024-polity-part-6",
+      "question_file": "questions/polity/ssc-mts-2024-polity-part-6.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Polity PART 1",
+      "slug": "ssc-selection-post-xii-2024-polity-part-1",
+      "question_file": "questions/polity/ssc-selection-post-xii-2024-polity-part-1.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Polity PART 2",
+      "slug": "ssc-selection-post-xii-2024-polity-part-2",
+      "question_file": "questions/polity/ssc-selection-post-xii-2024-polity-part-2.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Polity PART 3",
+      "slug": "ssc-selection-post-xii-2024-polity-part-3",
+      "question_file": "questions/polity/ssc-selection-post-xii-2024-polity-part-3.json"
+    },
+    {
+      "title": "SSC STENO 2024 Polity",
+      "slug": "ssc-steno-2024-polity",
+      "question_file": "questions/polity/ssc-steno-2024-polity.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CGL 2023 Tier-1 PART 1 Polity",
+      "slug": "ssc-cgl-2023-tier-1-part-1-polity",
+      "question_file": "questions/polity/ssc-cgl-2023-tier-1-part-1-polity.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 PART 2 Polity",
+      "slug": "ssc-cgl-2023-tier-1-part-2-polity",
+      "question_file": "questions/polity/ssc-cgl-2023-tier-1-part-2-polity.json"
+    },
+    {
+      "title": "SSC CGL 2023 Tier-1 PART 3 Polity",
+      "slug": "ssc-cgl-2023-tier-1-part-3-polity",
+      "question_file": "questions/polity/ssc-cgl-2023-tier-1-part-3-polity.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 PART 1 Polity",
+      "slug": "ssc-chsl-2023-tier-1-part-1-polity",
+      "question_file": "questions/polity/ssc-chsl-2023-tier-1-part-1-polity.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 PART 2 Polity",
+      "slug": "ssc-chsl-2023-tier-1-part-2-polity",
+      "question_file": "questions/polity/ssc-chsl-2023-tier-1-part-2-polity.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 PART 3 Polity",
+      "slug": "ssc-chsl-2023-tier-1-part-3-polity",
+      "question_file": "questions/polity/ssc-chsl-2023-tier-1-part-3-polity.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Polity PART 1",
+      "slug": "ssc-mts-2023-tier-1-polity-part-1",
+      "question_file": "questions/polity/ssc-mts-2023-tier-1-polity-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Polity PART 2",
+      "slug": "ssc-mts-2023-tier-1-polity-part-2",
+      "question_file": "questions/polity/ssc-mts-2023-tier-1-polity-part-2.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 1 Polity",
+      "slug": "ssc-cgl-2022-tier-1-part-1-polity",
+      "question_file": "questions/polity/ssc-cgl-2022-tier-1-part-1-polity.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 2 Polity",
+      "slug": "ssc-cgl-2022-tier-1-part-2-polity",
+      "question_file": "questions/polity/ssc-cgl-2022-tier-1-part-2-polity.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 1 PART 3 Polity",
+      "slug": "ssc-cgl-2022-tier-1-part-3-polity",
+      "question_file": "questions/polity/ssc-cgl-2022-tier-1-part-3-polity.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 2 Polity",
+      "slug": "ssc-cgl-2022-tier-2-polity",
+      "question_file": "questions/polity/ssc-cgl-2022-tier-2-polity.json"
+    },
+    {
+      "title": "SSC CHSL 2022 PART 1 Polity",
+      "slug": "ssc-chsl-2022-part-1-polity",
+      "question_file": "questions/polity/ssc-chsl-2022-part-1-polity.json"
+    },
+    {
+      "title": "SSC CHSL 2022 PART 2 Polity",
+      "slug": "ssc-chsl-2022-part-2-polity",
+      "question_file": "questions/polity/ssc-chsl-2022-part-2-polity.json"
+    },
+    {
+      "title": "SSC CHSL 2022 PART 3 Polity",
+      "slug": "ssc-chsl-2022-part-3-polity",
+      "question_file": "questions/polity/ssc-chsl-2022-part-3-polity.json"
+    },
+    {
+      "title": "SSC CPO 2022 Polity PART 1",
+      "slug": "ssc-cpo-2022-polity-part-1",
+      "question_file": "questions/polity/ssc-cpo-2022-polity-part-1.json"
+    },
+    {
+      "title": "SSC CPO 2022 Polity PART 2",
+      "slug": "ssc-cpo-2022-polity-part-2",
+      "question_file": "questions/polity/ssc-cpo-2022-polity-part-2.json"
+    },
+    {
+      "title": "SSC CPO 2022 Polity PART 3",
+      "slug": "ssc-cpo-2022-polity-part-3",
+      "question_file": "questions/polity/ssc-cpo-2022-polity-part-3.json"
+    },
+    {
+      "title": "SSC GD 2022 PART 1 Polity",
+      "slug": "ssc-gd-2022-part-1-polity",
+      "question_file": "questions/polity/ssc-gd-2022-part-1-polity.json"
+    },
+    {
+      "title": "SSC GD 2022 PART 2 Polity",
+      "slug": "ssc-gd-2022-part-2-polity",
+      "question_file": "questions/polity/ssc-gd-2022-part-2-polity.json"
+    },
+    {
+      "title": "SSC GD 2022 PART 3 Polity",
+      "slug": "ssc-gd-2022-part-3-polity",
+      "question_file": "questions/polity/ssc-gd-2022-part-3-polity.json"
+    },
+    {
+      "title": "SSC GD 2022 PART 4 Polity",
+      "slug": "ssc-gd-2022-part-4-polity",
+      "question_file": "questions/polity/ssc-gd-2022-part-4-polity.json"
+    },
+    {
+      "title": "SSC GD 2022 PART 5 Polity",
+      "slug": "ssc-gd-2022-part-5-polity",
+      "question_file": "questions/polity/ssc-gd-2022-part-5-polity.json"
+    },
+    {
+      "title": "SSC GD 2022 PART 6 Polity",
+      "slug": "ssc-gd-2022-part-6-polity",
+      "question_file": "questions/polity/ssc-gd-2022-part-6-polity.json"
+    },
+    {
+      "title": "SSC MTS 2022 PART 1 Polity",
+      "slug": "ssc-mts-2022-part-1-polity",
+      "question_file": "questions/polity/ssc-mts-2022-part-1-polity.json"
+    },
+    {
+      "title": "SSC MTS 2022 PART 2 Polity",
+      "slug": "ssc-mts-2022-part-2-polity",
+      "question_file": "questions/polity/ssc-mts-2022-part-2-polity.json"
+    },
+    {
+      "title": "SSC MTS 2022 PART 3 Polity",
+      "slug": "ssc-mts-2022-part-3-polity",
+      "question_file": "questions/polity/ssc-mts-2022-part-3-polity.json"
+    },
+    {
+      "title": "SSC MTS 2022 PART 4 Polity",
+      "slug": "ssc-mts-2022-part-4-polity",
+      "question_file": "questions/polity/ssc-mts-2022-part-4-polity.json"
+    },
+    {
+      "title": "SSC MTS 2022 PART 5 Polity",
+      "slug": "ssc-mts-2022-part-5-polity",
+      "question_file": "questions/polity/ssc-mts-2022-part-5-polity.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 Polity PART 1",
+      "slug": "ssc-cgl-2021-polity-part-1",
+      "question_file": "questions/polity/ssc-cgl-2021-polity-part-1.json"
+    },
+    {
+      "title": "SSC CGL 2021 Polity PART 2",
+      "slug": "ssc-cgl-2021-polity-part-2",
+      "question_file": "questions/polity/ssc-cgl-2021-polity-part-2.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Polity PART 1",
+      "slug": "ssc-chsl-2021-polity-part-1",
+      "question_file": "questions/polity/ssc-chsl-2021-polity-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Polity PART 2",
+      "slug": "ssc-chsl-2021-polity-part-2",
+      "question_file": "questions/polity/ssc-chsl-2021-polity-part-2.json"
+    },
+    {
+      "title": "Sss MTS 2021 PART 1 Polity",
+      "slug": "sss-mts-2021-part-1-polity",
+      "question_file": "questions/polity/sss-mts-2021-part-1-polity.json"
+    },
+    {
+      "title": "Sss MTS 2021 PART 2 Polity",
+      "slug": "sss-mts-2021-part-2-polity",
+      "question_file": "questions/polity/sss-mts-2021-part-2-polity.json"
+    },
+    {
+      "title": "Sss MTS 2021 PART 3 Polity",
+      "slug": "sss-mts-2021-part-3-polity",
+      "question_file": "questions/polity/sss-mts-2021-part-3-polity.json"
+    },
+    {
+      "title": "Sss MTS 2021 PART 4 Polity",
+      "slug": "sss-mts-2021-part-4-polity",
+      "question_file": "questions/polity/sss-mts-2021-part-4-polity.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 Polity",
+      "slug": "ssc-cgl-2020-polity",
+      "question_file": "questions/polity/ssc-cgl-2020-polity.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Polity PART 1",
+      "slug": "ssc-chsl-2020-polity-part-1",
+      "question_file": "questions/polity/ssc-chsl-2020-polity-part-1.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Polity PART 2",
+      "slug": "ssc-chsl-2020-polity-part-2",
+      "question_file": "questions/polity/ssc-chsl-2020-polity-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2020 Polity PART 1",
+      "slug": "ssc-mts-2020-polity-part-1",
+      "question_file": "questions/polity/ssc-mts-2020-polity-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2020 Polity PART 2",
+      "slug": "ssc-mts-2020-polity-part-2",
+      "question_file": "questions/polity/ssc-mts-2020-polity-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2020 Polity PART 3",
+      "slug": "ssc-mts-2020-polity-part-3",
+      "question_file": "questions/polity/ssc-mts-2020-polity-part-3.json"
+    }
+  ]
+}
+}

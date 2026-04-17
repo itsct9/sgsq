@@ -1,0 +1,152 @@
+{
+  "topic": "physics",
+  "exams": {
+  "2025":   [
+    {
+      "title": "SSC GD 2025 Physics",
+      "slug": "ssc-gd-2025-physics",
+      "question_file": "questions/physics/ssc-gd-2025-physics.json"
+    }
+  ],
+  "2024":   [
+    {
+      "title": "SSC CGL 2024 T-1 Physics",
+      "slug": "ssc-cgl-2024-t-1-physics",
+      "question_file": "questions/physics/ssc-cgl-2024-t-1-physics.json"
+    },
+    {
+      "title": "SSC CGL 2024 T-2 Physics",
+      "slug": "ssc-cgl-2024-t-2-physics",
+      "question_file": "questions/physics/ssc-cgl-2024-t-2-physics.json"
+    },
+    {
+      "title": "SSC CHSL 2024 T-1 Physics",
+      "slug": "ssc-chsl-2024-t-1-physics",
+      "question_file": "questions/physics/ssc-chsl-2024-t-1-physics.json"
+    },
+    {
+      "title": "SSC CPO 2024 Physics",
+      "slug": "ssc-cpo-2024-physics",
+      "question_file": "questions/physics/ssc-cpo-2024-physics.json"
+    },
+    {
+      "title": "SSC GD 2024 Physics",
+      "slug": "ssc-gd-2024-physics",
+      "question_file": "questions/physics/ssc-gd-2024-physics.json"
+    },
+    {
+      "title": "SSC MTS 2024 Physics",
+      "slug": "ssc-mts-2024-physics",
+      "question_file": "questions/physics/ssc-mts-2024-physics.json"
+    },
+    {
+      "title": "SSC Selection Post Xii 2024 Physics",
+      "slug": "ssc-selection-post-xii-2024-physics",
+      "question_file": "questions/physics/ssc-selection-post-xii-2024-physics.json"
+    },
+    {
+      "title": "SSC STENO 2024 Physics",
+      "slug": "ssc-steno-2024-physics",
+      "question_file": "questions/physics/ssc-steno-2024-physics.json"
+    }
+  ],
+  "2023":   [
+    {
+      "title": "SSC CGL 2023 Tier-1 Physics",
+      "slug": "ssc-cgl-2023-tier-1-physics",
+      "question_file": "questions/physics/ssc-cgl-2023-tier-1-physics.json"
+    },
+    {
+      "title": "SSC CHSL 2023 Tier-1 Physics",
+      "slug": "ssc-chsl-2023-tier-1-physics",
+      "question_file": "questions/physics/ssc-chsl-2023-tier-1-physics.json"
+    },
+    {
+      "title": "SSC CPO 2023 Tier-1 Physics",
+      "slug": "ssc-cpo-2023-tier-1-physics",
+      "question_file": "questions/physics/ssc-cpo-2023-tier-1-physics.json"
+    },
+    {
+      "title": "SSC MTS 2023 Tier-1 Physics",
+      "slug": "ssc-mts-2023-tier-1-physics",
+      "question_file": "questions/physics/ssc-mts-2023-tier-1-physics.json"
+    }
+  ],
+  "2022":   [
+    {
+      "title": "SSC CGL 2022 Tier 1 Physics",
+      "slug": "ssc-cgl-2022-tier-1-physics",
+      "question_file": "questions/physics/ssc-cgl-2022-tier-1-physics.json"
+    },
+    {
+      "title": "SSC CGL 2022 Tier 2 Physics",
+      "slug": "ssc-cgl-2022-tier-2-physics",
+      "question_file": "questions/physics/ssc-cgl-2022-tier-2-physics.json"
+    },
+    {
+      "title": "SSC CHSL 2022 PART 1 Physics",
+      "slug": "ssc-chsl-2022-part-1-physics",
+      "question_file": "questions/physics/ssc-chsl-2022-part-1-physics.json"
+    },
+    {
+      "title": "SSC CPO 2022 Physics",
+      "slug": "ssc-cpo-2022-physics",
+      "question_file": "questions/physics/ssc-cpo-2022-physics.json"
+    },
+    {
+      "title": "SSC GD 2022 Physics",
+      "slug": "ssc-gd-2022-physics",
+      "question_file": "questions/physics/ssc-gd-2022-physics.json"
+    },
+    {
+      "title": "SSC MTS 2022 Physics",
+      "slug": "ssc-mts-2022-physics",
+      "question_file": "questions/physics/ssc-mts-2022-physics.json"
+    }
+  ],
+  "2021":   [
+    {
+      "title": "SSC CGL 2021 Physics",
+      "slug": "ssc-cgl-2021-physics",
+      "question_file": "questions/physics/ssc-cgl-2021-physics.json"
+    },
+    {
+      "title": "SSC CHSL 2021 Physics",
+      "slug": "ssc-chsl-2021-physics",
+      "question_file": "questions/physics/ssc-chsl-2021-physics.json"
+    },
+    {
+      "title": "SSC MTS 2021 Physics PART-1",
+      "slug": "ssc-mts-2021-physics-part-1",
+      "question_file": "questions/physics/ssc-mts-2021-physics-part-1.json"
+    },
+    {
+      "title": "SSC MTS 2021 Physics PART-2",
+      "slug": "ssc-mts-2021-physics-part-2",
+      "question_file": "questions/physics/ssc-mts-2021-physics-part-2.json"
+    },
+    {
+      "title": "SSC MTS 2021 Physics PART-3",
+      "slug": "ssc-mts-2021-physics-part-3",
+      "question_file": "questions/physics/ssc-mts-2021-physics-part-3.json"
+    }
+  ],
+  "2020":   [
+    {
+      "title": "SSC CGL 2020 Physics",
+      "slug": "ssc-cgl-2020-physics",
+      "question_file": "questions/physics/ssc-cgl-2020-physics.json"
+    },
+    {
+      "title": "SSC CHSL 2020 Physics",
+      "slug": "ssc-chsl-2020-physics",
+      "question_file": "questions/physics/ssc-chsl-2020-physics.json"
+    },
+    {
+      "title": "SSC MTS 2020 Physics",
+      "slug": "ssc-mts-2020-physics",
+      "question_file": "questions/physics/ssc-mts-2020-physics.json"
+    }
+  ]
+}
+}

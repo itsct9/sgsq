@@ -1,0 +1,246 @@
+{
+    "title": "Most Repeated Economy Questions Part 1",
+    "topic": "Economy",
+    "content": [
+        {
+            "question": "What is a good indicator of economic development?",
+            "answer": "Steady growth in GDP",
+            "note": "A <strong>Steady Growth in GDP</strong> (Gross Domestic Product) is considered a reliable indicator of economic development as it signifies an increase in the production of goods and services over time."
+        },
+        {
+            "question": "What was the male literacy rate as per Census 2011?",
+            "answer": "82.14%",
+            "note": "Per the <strong>Census 2011</strong>, the <em>male literacy rate</em> in India was <strong>82.14%</strong>, significantly higher than the female literacy rate (65.46%)."
+        },
+        {
+            "question": "Which state has the lowest poverty ratio as per NITI Aayog MPI 2021?",
+            "answer": "Kerala",
+            "note": "As per the <strong>NITI Aayog MPI 2021</strong>, <em>Kerala</em> recorded the lowest percentage of poverty in the country, showcasing high social development."
+        },
+        {
+            "question": "Which state had a population density of 17 persons per sq km in 2011?",
+            "answer": "Arunachal Pradesh",
+            "note": "<em>Arunachal Pradesh</em> had the lowest population density in 2011 with only <strong>17 persons per sq km</strong>, due to its mountainous terrain and large forest cover."
+        },
+        {
+            "question": "Which committee was formed to assess poverty in India?",
+            "answer": "Tendulkar Committee",
+            "note": "The <strong>Suresh Tendulkar Committee</strong> (2009) was constituted to review the methodology for <em>poverty estimation</em> in India, moving away from just calorie intake to include health and education."
+        },
+        {
+            "question": "What is a closed economy?",
+            "answer": "An economy with no flow of labour, goods, and money with other countries",
+            "note": "A <strong>Closed Economy</strong> is one that does not engage in <em>international trade</em> (imports/exports) or financial transfers with the rest of the world. It is self-sufficient."
+        },
+        {
+            "question": "What is meant by red tape in an economy?",
+            "answer": "Rigid adherence to formal rules",
+            "note": "<strong>Red Tape</strong> refers to <em>excessive bureaucracy</em> or rigid adherence to formal rules and regulations that are considered redundant and hinder decision-making."
+        },
+        {
+            "question": "What is the reverse repo rate?",
+            "answer": "Interest rate at which RBI absorbs liquidity from banks",
+            "note": "The <strong>Reverse Repo Rate</strong> is the rate at which the <em>RBI borrows money from commercial banks</em>. Increasing this rate helps the RBI suck out excess liquidity from the banking system."
+        },
+        {
+            "question": "What is fiscal deficit?",
+            "answer": "Excess of government expenditure over revenue excluding borrowings",
+            "note": "<strong>Fiscal Deficit</strong> is the difference between the government’s <em>total expenditure</em> and its total receipts (excluding borrowings). It indicates how much the government needs to borrow."
+        },
+        {
+            "question": "What is bank rate?",
+            "answer": "Rate at which commercial banks borrow from RBI",
+            "note": "The <strong>Bank Rate</strong> is the official interest rate at which the <em>central bank (RBI)</em> lends money to domestic banks, usually in the form of very short-term loans."
+        },
+        {
+            "question": "What was the urban population percentage in India as per Census 2011?",
+            "answer": "31.16%",
+            "note": "According to <strong>Census 2011</strong>, <em>31.16%</em> of India's population lived in urban areas, while 68.84% lived in rural areas."
+        },
+        {
+            "question": "Agricultural equipment manufacturing belongs to which sector?",
+            "answer": "Secondary sector",
+            "note": "Manufacturing <strong>Agricultural Equipment</strong> is part of the <em>Secondary Sector</em> because it involves industrial processing and the creation of capital goods."
+        },
+        {
+            "question": "Which Union Territory has the lowest population density?",
+            "answer": "Andaman and Nicobar Islands",
+            "note": "Among Union Territories, the <strong>Andaman and Nicobar Islands</strong> have the lowest population density (approx 46 per sq km) due to their geographic isolation."
+        },
+        {
+            "question": "PM SVANidhi scheme is for which group?",
+            "answer": "Street vendors affected by COVID-19",
+            "note": "The <strong>PM SVANidhi</strong> (Street Vendor’s AtmaNirbhar Nidhi) scheme was launched to provide <em>affordable working capital loans</em> to street vendors to resume livelihoods post-COVID-19 lockdowns."
+        },
+        {
+            "question": "What represents the standard of living in a country?",
+            "answer": "Per capita income",
+            "note": "<strong>Per Capita Income</strong> (Average Income) is used as a proxy for the <em>Standard of Living</em>. It is calculated by dividing the National Income by the total population."
+        },
+        {
+            "question": "Which country was a centrally planned economy in the 20th century?",
+            "answer": "Soviet Union",
+            "note": "The <strong>Soviet Union (USSR)</strong> was the most prominent example of a <em>Centrally Planned Economy</em>, where the state made all decisions regarding production and distribution."
+        },
+        {
+            "question": "If the price of a cheap good falls, what happens to its demand?",
+            "answer": "Increases",
+            "note": "For most goods, the <strong>Law of Demand</strong> applies: when the price falls, the <em>quantity demanded increases</em>. (Note: For Giffen goods, this may differ)."
+        },
+        {
+            "question": "What was the Bombay Plan?",
+            "answer": "A plan of economic development formulated in 1944 by Indian capitalists",
+            "note": "The <strong>Bombay Plan</strong> was a set of proposals for the post-WWII development of the Indian economy, published in 1944 by <em>eight leading Indian industrialists</em>."
+        },
+        {
+            "question": "Why is India called a mixed economy?",
+            "answer": "Because private and public sectors coexist",
+            "note": "India is a <strong>Mixed Economy</strong> because it follows a 'middle path' where the <em>Private Sector</em> (market mechanism) and <em>Public Sector</em> (state planning) work together."
+        },
+        {
+            "question": "Under which system does RBI issue currency?",
+            "answer": "Minimum reserve system",
+            "note": "The RBI follows the <strong>Minimum Reserve System</strong> for issuing currency notes. It must maintain a minimum reserve of <em>₹200 crores</em> (115 in gold, 85 in foreign securities)."
+        },
+        {
+            "question": "What causes inflation?",
+            "answer": "Increase in money supply and decrease in production",
+            "note": "<strong>Inflation</strong> occurs when there is <em>too much money chasing too few goods</em>. It is characterized by a general increase in prices and a fall in the purchasing value of money."
+        },
+        {
+            "question": "Mahalanobis model is related to which plan?",
+            "answer": "Second Five Year Plan",
+            "note": "The <strong>Second Five Year Plan (1956-1961)</strong> was based on the <em>P.C. Mahalanobis Model</em>, which emphasized rapid industrialization with a focus on heavy industries."
+        },
+        {
+            "question": "When did the First Five Year Plan start?",
+            "answer": "1951",
+            "note": "The <strong>First Five Year Plan</strong> was launched in <em>1951</em> and focused primarily on the development of the <strong>Agricultural Sector</strong> to ensure food security."
+        },
+        {
+            "question": "What was the aim of the Twelfth Five Year Plan?",
+            "answer": "Faster, sustainable and inclusive growth",
+            "note": "The core objective of the <strong>Twelfth Plan</strong> was <em>'Faster, More Inclusive and Sustainable Growth'</em>, emphasizing environmental protection and poverty reduction."
+        },
+        {
+            "question": "What are Open Market Operations?",
+            "answer": "Buying and selling of government securities by RBI",
+            "note": "<strong>Open Market Operations (OMO)</strong> involve the <em>buying and selling of G-Secs</em> (Government Securities) by the RBI to regulate the money supply in the economy."
+        },
+        {
+            "question": "Which state set up District Investment Promotion Agencies (DIPA)?",
+            "answer": "Odisha",
+            "note": "<em>Odisha</em> is the first state in India to constitute <strong>District Investment Promotion Agencies (DIPA)</strong> to facilitate investments at the district level."
+        },
+        {
+            "question": "Which state has the second largest population after Uttar Pradesh?",
+            "answer": "Maharashtra",
+            "note": "<em>Maharashtra</em> is the <strong>second most populous state</strong> in India. Uttar Pradesh holds the first rank."
+        },
+        {
+            "question": "What is globalisation?",
+            "answer": "Integration of domestic economy with global economy",
+            "note": "<strong>Globalisation</strong> is the process of rapid <em>integration or interconnection</em> between countries through trade, investment, and technology."
+        },
+        {
+            "question": "Which sector converts primary materials into finished goods?",
+            "answer": "Secondary sector",
+            "note": "The <strong>Secondary Sector</strong> (Industrial Sector) is responsible for <em>processing raw materials</em> into finished goods, adding value to the primary products."
+        },
+        {
+            "question": "Which is not part of the primary sector?",
+            "answer": "Bank services",
+            "note": "<strong>Bank Services</strong> are part of the <em>Tertiary (Service) Sector</em>. The primary sector only includes activities like farming, mining, and fishing."
+        },
+        {
+            "question": "Speculative demand for cash depends on what?",
+            "answer": "Interest rates",
+            "note": "According to Keynes, the <strong>Speculative Demand for Money</strong> is highly sensitive to changes in <em>interest rates</em>. People hold cash to take advantage of future interest rate changes."
+        },
+        {
+            "question": "What is the law of increasing returns associated with?",
+            "answer": "Decreasing cost",
+            "note": "The <strong>Law of Increasing Returns</strong> implies that as production expands, efficiency increases, which leads to a <em>Decreasing Cost</em> per unit of output."
+        },
+        {
+            "question": "When demand curve shifts right at same price, what happens to quantity demanded?",
+            "answer": "Increases",
+            "note": "A <strong>Rightward Shift</strong> in the demand curve (at the same price) represents an <em>increase in demand</em> due to external factors like income rise or change in taste."
+        },
+        {
+            "question": "Why do diamonds cost more than water?",
+            "answer": "Higher marginal utility",
+            "note": "This is the <strong>Diamond-Water Paradox</strong>. Diamonds are expensive because their <em>Marginal Utility</em> (utility of the last unit) is high due to scarcity, whereas water has high total utility but low marginal utility."
+        },
+        {
+            "question": "Which is an example of the primary sector?",
+            "answer": "Forestry",
+            "note": "<strong>Forestry</strong> involves the collection and management of natural resources directly from the environment, making it a classic example of the <em>Primary Sector</em>."
+        },
+        {
+            "question": "Into how many sectors are economic activities divided?",
+            "answer": "Three",
+            "note": "Economic activities are traditionally divided into <strong>Three Sectors</strong>: <em>Primary</em> (extraction), <em>Secondary</em> (manufacturing), and <em>Tertiary</em> (services)."
+        },
+        {
+            "question": "What are the components of basic social infrastructure?",
+            "answer": "Education, health, and civic amenities",
+            "note": "<strong>Social Infrastructure</strong> includes the basic facilities that improve the quality of human life, specifically <em>Education, Health, and Housing/Sanitation</em>."
+        },
+        {
+            "question": "In which system does government decide production based on needs?",
+            "answer": "Socialist system",
+            "note": "In a <strong>Socialist System</strong> (Command Economy), the <em>Central Authority or Government</em> plans and decides what to produce, how to produce, and for whom to produce."
+        },
+        {
+            "question": "In socialism, how are goods distributed?",
+            "answer": "Based on needs of people",
+            "note": "Socialism emphasizes <strong>Equity</strong>. Therefore, goods and services are distributed based on the <em>actual needs of the people</em> rather than their ability to pay."
+        },
+        {
+            "question": "What is a capitalist economy?",
+            "answer": "Private ownership with production based on demand and supply",
+            "note": "A <strong>Capitalist Economy</strong> (Market Economy) is characterized by <em>private ownership</em> of the means of production and minimal government intervention."
+        },
+        {
+            "question": "In a capitalist economy, prices are determined by what?",
+            "answer": "Demand and supply",
+            "note": "In capitalism, the <strong>Price Mechanism</strong> (the 'Invisible Hand') determines prices through the <em>forces of demand and supply</em> in the free market. <br> <strong>Real-life Example:</strong> During a sudden rainstorm, the <strong>price of umbrellas</strong> at a street corner goes up because demand is high and supply is limited. That's capitalism."
+        },
+        {
+            "question": "Who gave the Ability Principle of Taxation?",
+            "answer": "Adam Smith",
+            "note": "The <strong>Ability to Pay Principle</strong> suggests that those who have more resources/income should pay <em>more in taxes</em>. It was advocated by <em>Adam Smith</em> as a canon of taxation."
+        },
+        {
+            "question": "Which sector is also called the service sector?",
+            "answer": "Tertiary sector",
+            "note": "The <strong>Tertiary Sector</strong> is known as the <em>Service Sector</em> because it provides support services to the primary and secondary sectors rather than producing tangible goods. <br><strong>Real-life Example:</strong> When you go to a <strong>hospital</strong> or use <strong>Amazon</strong> to deliver a package, you are consuming services. These businesses don't 'grow' or 'manufacture' the product; they provide the expertise or logistics."
+        },
+        {
+            "question": "How is net investment calculated?",
+            "answer": "Gross investment minus depreciation",
+            "note": "<strong>Net Investment</strong> is calculated as <strong>Gross Investment - Depreciation</strong>. <em>Depreciation</em> represents the wear and tear of capital assets over time.<br><strong>Real-life Example:</strong> If a delivery company buys 10 new bikes (Gross Investment) but 2 old bikes break down and are scrapped (Depreciation), the <em>Net Investment</em> is only 8 bikes."
+        },
+        {
+            "question": "Which institution is responsible for calculating India's GDP?",
+            "answer": "Central Statistical Institute",
+            "note": "The <strong>Central Statistical Institute (CSO)</strong>, now part of the <strong>National Statistical Office (NSO)</strong>, is the nodal agency responsible for coordinating statistical activities and calculating the <em>Gross Domestic Product (GDP)</em>.<br> Think of the CSO as the <strong>'Chief Accountant'</strong> of India. They gather data from shops, factories, and farms to announce if the 'Business of India' is growing or shrinking."
+        },
+        {
+            "question": "What was the duration of the Twelfth Five Year Plan?",
+            "answer": "1 April 2012 to 31 March 2017",
+            "note": "The <strong>Twelfth Five Year Plan</strong> was the last formal five-year plan in India, spanning from <em>2012 to 2017</em>. It was later replaced by <strong>NITI Aayog's</strong> three-year action agendas."
+        },
+        {
+            "question": "According to Census 2011, which state has the lowest literacy rate?",
+            "answer": "Bihar",
+            "note": "Based on <strong>Census 2011</strong>, <em>Bihar</em> recorded the lowest literacy rate in the country at approximately <strong>61.8%</strong>."
+        },
+        {
+            "question": "According to Census 2011, which state has the lowest sex ratio?",
+            "answer": "Haryana",
+            "note": "<strong>Sex Ratio</strong> is defined as the number of females per 1,000 males. <em>Haryana</em> has the lowest ratio (879) among Indian states as per the 2011 Census."
+        }
+    ]
+}
