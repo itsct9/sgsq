@@ -433,6 +433,38 @@
         "question_file": "questions/practice-questions/modern-history-pratice-questions-part-17.json"
       }
     ],
+    "Physics": [
+      {
+        "title": "Physics Pratice Questions PART-1",
+        "slug": "physics-pratice-questions-part-1",
+        "question_file": "questions/practice-questions/physics-pratice-questions-part-1.json"
+      },
+      {
+        "title": "Physics Pratice Questions PART-2",
+        "slug": "physics-pratice-questions-part-2",
+        "question_file": "questions/practice-questions/physics-pratice-questions-part-2.json"
+      },
+      {
+        "title": "Physics Pratice Questions PART-3",
+        "slug": "physics-pratice-questions-part-3",
+        "question_file": "questions/practice-questions/physics-pratice-questions-part-3.json"
+      },
+      {
+        "title": "Physics Pratice Questions PART-4",
+        "slug": "physics-pratice-questions-part-4",
+        "question_file": "questions/practice-questions/physics-pratice-questions-part-4.json"
+      },
+      {
+        "title": "Physics Pratice Questions PART-5",
+        "slug": "physics-pratice-questions-part-5",
+        "question_file": "questions/practice-questions/physics-pratice-questions-part-5.json"
+      },
+      {
+        "title": "Physics Pratice Questions PART-6",
+        "slug": "physics-pratice-questions-part-6",
+        "question_file": "questions/practice-questions/physics-pratice-questions-part-6.json"
+      }
+    ],
     "Polity": [
       {
         "title": "Polity Pratice Questions PART-1",
